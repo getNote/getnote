@@ -1,0 +1,2 @@
+<div>Quicksort</div><div>&nbsp;-exactly the same as median sort</div><div>&nbsp;-uses median-of-three as a pivot (usually), not the first element.</div><div>&nbsp;&nbsp; &nbsp;-calculates the median of the first, second and middle elements &amp; uses it as a pivot</div><div>&nbsp;&nbsp; &nbsp;-behaves well if the list is already somewhat sorted</div><div>&nbsp;&nbsp; &nbsp; &nbsp;-(the pivot chosen would usually be somewhat close to the actual median)</div>
+

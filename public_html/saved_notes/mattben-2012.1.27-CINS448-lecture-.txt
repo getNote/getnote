@@ -1,0 +1,193 @@
+	
+	
+	
+
+
+<p style="margin-bottom: 0in">1/27/12</p>
+<p style="margin-bottom: 0in">Day 3</p>
+<p style="margin-bottom: 0in">We Legion</p>
+<p style="margin-bottom: 0in"><br>
+</p>
+<p style="margin-bottom: 0in">Review</p>
+<p style="margin-bottom: 0in">-Risk mitigation</p>
+<p style="margin-bottom: 0in">-Information Risk Management (IRM)</p>
+<p style="margin-bottom: 0in">-Exposure Factor (EF)</p>
+<p style="margin-bottom: 0in">-Single Loss Expectancy</p>
+<p style="margin-bottom: 0in">-Annualized Rate of Occurrence (ARO)</p>
+<p style="margin-bottom: 0in"><br>
+</p>
+<p style="margin-bottom: 0in">Consider he Following</p>
+<p style="margin-bottom: 0in">-simple cost of replacing the info</p>
+<p style="margin-bottom: 0in">-cost of replacing the support software</p>
+<p style="margin-bottom: 0in">-loss of the information
+confidentiality</p>
+<p style="margin-bottom: 0in">-loss of availability</p>
+<p style="margin-bottom: 0in">-loss of integrity</p>
+<p style="margin-bottom: 0in"><br>
+</p>
+<p style="margin-bottom: 0in">Quantitative
+</p>
+<p style="margin-bottom: 0in">-attempts to assign independently
+</p>
+<p style="margin-bottom: 0in">
+</p>
+<p style="margin-bottom: 0in">Exam hint
+</p>
+<p style="margin-bottom: 0in">-quantitative - quantity
+</p>
+<p style="margin-bottom: 0in">-risk analysis requires you to
+calculate the quantity of the asset you are protecting.
+</p>
+<p style="margin-bottom: 0in"><br>
+</p>
+<p style="margin-bottom: 0in">Qualitative
+</p>
+<p style="margin-bottom: 0in">-does not attempt to assign numeric
+value, but is scenario oriented
+</p>
+<p style="margin-bottom: 0in">-not changing he default password on
+the web server is a severe security issue
+</p>
+<p style="margin-bottom: 0in">
+</p>
+<p style="margin-bottom: 0in">Risk Analysis
+</p>
+<p style="margin-bottom: 0in">-process of analyzing a target
+environment and the relationships of its risk-related attributes
+</p>
+<p style="margin-bottom: 0in">-includes
+</p>
+<p style="margin-bottom: 0in">&nbsp; identify threat vulnerabilities
+</p>
+<p style="margin-bottom: 0in">&nbsp; associated these vulnerabilities with
+affected assets
+</p>
+<p style="margin-bottom: 0in">&nbsp; identify the potential for and nature
+of an undesirable result
+</p>
+<p style="margin-bottom: 0in">&nbsp; identify risk-reducing 
+</p>
+<p style="margin-bottom: 0in">
+</p>
+<p style="margin-bottom: 0in">&nbsp; Risk Assessment
+</p>
+<p style="margin-bottom: 0in">-Provides a measurement of risk
+</p>
+<p style="margin-bottom: 0in">-represents:
+</p>
+<p style="margin-bottom: 0in">	assignment of value to assets threat
+frequency
+</p>
+<p style="margin-bottom: 0in">&nbsp; consequence
+</p>
+<p style="margin-bottom: 0in">
+</p>
+<p style="margin-bottom: 0in"><br></p>
+<p style="margin-bottom: 0in">Risk Management
+</p>
+<p style="margin-bottom: 0in">-is the overall process
+</p>
+<p style="margin-bottom: 0in">-includes:
+</p>
+<p style="margin-bottom: 0in">&nbsp; assign priority
+</p>
+<p style="margin-bottom: 0in">&nbsp; budget
+</p>
+<p style="margin-bottom: 0in">&nbsp; implement
+</p>
+<p style="margin-bottom: 0in">&nbsp; maintain</p>
+<p style="margin-bottom: 0in"><br>
+</p>
+<p style="margin-bottom: 0in">Safeguard</p>
+<p style="margin-bottom: 0in">-A risk-reducing measure that acts to:</p>
+<p style="margin-bottom: 0in">&nbsp; Detect</p>
+<p style="margin-bottom: 0in">&nbsp; Prevent</p>
+<p style="margin-bottom: 0in">&nbsp; Or minimize loss</p>
+<p style="margin-bottom: 0in">	also known as a control measure is a
+counter guard</p>
+<p style="margin-bottom: 0in"><br>
+</p>
+<p style="margin-bottom: 0in">Uncertainty</p>
+<p style="margin-bottom: 0in">The degree (0.0 – 100%) to which
+there is less than complete confidence in the value of any element of
+the risk assessment</p>
+<p style="margin-bottom: 0in"><br>
+</p>
+<p style="margin-bottom: 0in">Vulnerability</p>
+<p style="margin-bottom: 0in">-The absence or weakness of a risk
+reducing safeguard</p>
+<p style="margin-bottom: 0in">-Can affect the expected frequency
+(ARO) and the exposure factor (EF)</p>
+<p style="margin-bottom: 0in"><br>
+</p>
+<p style="margin-bottom: 0in">Quantitative vs. Qualitative</p>
+<p style="margin-bottom: 0in">-Quantitative attempts to assign
+monetary value to elements of the risk analysis</p>
+<p style="margin-bottom: 0in">-Qualitative is socially oriented</p>
+<p style="margin-bottom: 0in"><br>
+</p>
+<p style="margin-bottom: 0in">Risk Analysis Matrix</p>
+<p style="margin-bottom: 0in">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 1 Insignificant &nbsp; 2 Minor &nbsp; 3
+Moderate &nbsp; 4 Major &nbsp; 5 Catastrophic</p>
+<p style="margin-bottom: 0in">5 Almost Certain &nbsp; &nbsp;H &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;H &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;E &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; E &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; E</p>
+<p style="margin-bottom: 0in">4 Likely</p>
+<p style="margin-bottom: 0in">3 Possible</p>
+<p style="margin-bottom: 0in">2 Unlikely</p>
+<p style="margin-bottom: 0in">1 Rare			</p>
+<p style="margin-bottom: 0in"><br>
+</p>
+<p style="margin-bottom: 0in">Central Task of Information Risk
+Management</p>
+<ol>
+	<li><p style="margin-bottom: 0in">Establish a IRM Policy</p>
+	</li><li><p style="margin-bottom: 0in">Establish a IRM Team</p>
+	</li><li><p style="margin-bottom: 0in">Establish IRM Methodology and
+	Tools</p>
+	</li><li><p style="margin-bottom: 0in">Identify and Measure Risk</p>
+	</li><li><p style="margin-bottom: 0in">Size the project</p>
+</li></ol>
+<p style="margin-bottom: 0in"><br>
+</p>
+<p style="margin-bottom: 0in">Establish Risk Acceptance Criteria</p>
+<p style="margin-bottom: 0in">-Need to Establish the maximum
+acceptable financial risk</p>
+<p style="margin-bottom: 0in">-example</p>
+<p style="margin-bottom: 0in">	“do not accept more than a 1 in a
+100 chance of losing $1,000,000 in a given year”</p>
+<p style="margin-bottom: 0in"><br></p><p style="margin-bottom: 0in">Cost / Benefit Analysis<br></p>
+<p style="margin-bottom: 0in">-Once a safeguard is selected how much
+money is it expected to save versus how much does it costs to       
+implement it (TCO - Total Cost Ownership)</p>
+<p style="margin-bottom: 0in">-AKA ROI(Return On Investment)</p>
+<p style="margin-bottom: 0in">-TCO (Total Cost of Ownership) &lt; ALE
+(Annual Loss Expectancy) =+ ROI (Return On Investment)</p>
+<p style="margin-bottom: 0in">	You have made a good choice</p>
+<p style="margin-bottom: 0in"><br>
+</p>
+<p style="margin-bottom: 0in">Six elements of risk modeling that some
+form of metric can be applied:</p>
+<ol>
+	<li><p style="margin-bottom: 0in">Asset Value</p>
+	</li><li><p style="margin-bottom: 0in">Threat Frequency</p>
+	</li><li><p style="margin-bottom: 0in">Threat Exposure Factor</p>
+	</li><li><p style="margin-bottom: 0in">Safeguard Effectiveness</p>
+	</li><li><p style="margin-bottom: 0in">Safeguard Cost</p>
+	</li><li><p style="margin-bottom: 0in">Uncertainty</p>
+</li></ol>
+<p style="margin-bottom: 0in">Example:<br></p>
+<p style="margin-bottom: 0in">-If there was a fire we would expect to
+lose 50% of our assets (exposure factor) which are worth $1 million.</p>
+<p style="margin-bottom: 0in">The Annualized rate of occurrence is
+1/10 (once in 10 years)</p>
+<p style="margin-bottom: 0in">$1M *50% = $5000k	</p>
+<p style="margin-bottom: 0in"><br>
+</p>
+<p style="margin-bottom: 0in"><br>
+</p>
+<p style="margin-bottom: 0in"><br>
+</p>
+<p style="margin-bottom: 0in"><br>
+</p>
+<p style="margin-bottom: 0in"><br>
+</p>
+
