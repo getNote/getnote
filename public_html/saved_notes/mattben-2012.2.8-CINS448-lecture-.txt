@@ -1,0 +1,166 @@
+
+	
+	
+	
+
+
+<p style="margin-bottom: 0in">Day 8</p>
+<p style="margin-bottom: 0in">2/8/12</p>
+<p style="margin-bottom: 0in"><br>
+</p>
+<p style="margin-bottom: 0in">Jonny Lang – The Last HOPE: No-Tech
+Hacking (social engineering)</p>
+<p style="margin-bottom: 0in">CPU runs in two main states</p>
+<ol>
+	<li><p style="margin-bottom: 0in">User</p>
+	<ol>
+		<li><p style="margin-bottom: 0in">Only non-privileged instructions
+		can be executed in this state</p>
+	</li></ol>
+	</li><li><p style="margin-bottom: 0in">privileged</p>
+	<ol>
+		<li><p style="margin-bottom: 0in">any privileged or non-privileged
+		instructions can be executed</p>
+		</li><li><p style="margin-bottom: 0in">The application can request that
+		its operating state be increased or decreased by the OS</p></li></ol></li></ol>
+<p style="margin-bottom: 0in">Vulnerability associated with CPU
+states</p>
+<ol>
+	<li><p style="margin-bottom: 0in">when a system crashes, a core dump
+	of its internal state, including RAM, program stacks, and CPU
+	registers is created</p>
+	</li><li><p style="margin-bottom: 0in">if the core dump isn't secured
+	then unauthorized users could access it</p></li></ol>
+<p style="margin-bottom: 0in">Key Terms</p>
+<ol>
+	<li><p style="margin-bottom: 0in">Types of Memory</p>
+	<ol>
+		<li><p style="margin-bottom: 0in">Random Access memory (RAM)</p>
+		</li><li><p style="margin-bottom: 0in">Read-Only Memory (ROM)</p>
+		</li><li><p style="margin-bottom: 0in">Flash Memory</p>
+	</li></ol>
+	</li><li><p style="margin-bottom: 0in">Paging</p>
+	</li><li><p style="margin-bottom: 0in">Virtual Memory</p></li></ol>
+<p style="margin-bottom: 0in">Memory</p>
+<ol>
+	<li><p style="margin-bottom: 0in">memory needs to be protected so
+	that user's programs don't interfere with the OS or the processes of
+	other users</p>
+	</li><li><p style="margin-bottom: 0in">Protected with: 
+	</p>
+	<ol>
+		<li><p style="margin-bottom: 0in">base/limit register</p>
+		</li><li><p style="margin-bottom: 0in">user/privileged modes</p></li></ol></li></ol>
+<p style="margin-bottom: 0in">Types of Memory</p>
+<ol>
+	<li><p style="margin-bottom: 0in">Random Access memory (RAM)</p>
+	<ol>
+		<li><p style="margin-bottom: 0in">Read/Write memory</p>
+		</li><li><p style="margin-bottom: 0in">stores program instructions and
+		data</p>
+	</li></ol>
+</li></ol>
+<p style="margin-bottom: 0in">Types  of RAM<br></p>
+<ol>
+	<li><p style="margin-bottom: 0in">Dynamic Random Access Memory
+	(DRAM)</p>
+	</li><li><p style="margin-bottom: 0in">Extended Data Output RAM (EDO RAM)</p>
+	</li><li><p style="margin-bottom: 0in">Synchronous DRAM (SDRAM)</p>
+	</li><li><p style="margin-bottom: 0in">Double Data Rate SDRAM (DDR SDRAM)</p>
+</li></ol>
+<p style="margin-bottom: 0in">Dynamic Random Access memory (DRAM)<br></p>
+<ol>
+	<li><p style="margin-bottom: 0in">Was the most common</p>
+	</li><li><p style="margin-bottom: 0in">holds data fro a short period of
+	time</p>
+	</li><li><p style="margin-bottom: 0in">must be continually and
+	dynamically refreshed</p>
+	<p style="margin-bottom: 0in"></p>
+</li></ol>
+<p style="margin-bottom: 0in">Extended Data Output RAM (EDO RAM)<br></p>
+<ol>
+	<li><p style="margin-bottom: 0in">Faster read time than DRAM</p>
+	</li><li><p style="margin-bottom: 0in">uses a look ahead feature</p>
+</li></ol>
+<p style="margin-bottom: 0in">Synchronous DRAM (SDRAM)<br></p>
+<ol>
+	<li><p style="margin-bottom: 0in">synchronized with the clock speed</p>
+	</li><li><p style="margin-bottom: 0in">increases the speed of
+	transmitting and executing data</p>
+</li></ol>
+<p style="margin-bottom: 0in">Double Data Rate (SDRAM DDR SDRAM)<br></p>
+<ol>
+	<li><p style="margin-bottom: 0in">outputs on both the rising and
+	falling edges of the clock cycle</p>
+	</li><li><p style="margin-bottom: 0in">(rather than just the rising edge)</p>
+</li></ol>
+<p style="margin-bottom: 0in">Read-Only Memory (ROM)<br></p>
+<ol>
+	<li><p style="margin-bottom: 0in">Is usually used for storing parts
+	of the OS necessary to boot the computer</p>
+	</li><li><p style="margin-bottom: 0in">Data is not lost when the computer
+	power is turned off</p>
+	</li><li><p style="margin-bottom: 0in">there is a small long life battery
+	on the chip</p>
+</li></ol>
+<p style="margin-bottom: 0in">Flash memory<br></p>
+<ol>
+	<li><p style="margin-bottom: 0in">Functions like ram and a hard
+	drive combined (but has no moving parts)</p>
+	</li><li><p style="margin-bottom: 0in">Examples:</p>
+	<ol>
+		<li><p style="margin-bottom: 0in">Compact Flash (cameras)</p>
+		</li><li><p style="margin-bottom: 0in">smart media</p>
+		</li><li><p style="margin-bottom: 0in">memory stick</p>
+	</li></ol>
+</li></ol>
+<p style="margin-bottom: 0in">Memory Management<br></p>
+<ol>
+	<li><p style="margin-bottom: 0in">OS is charge of management</p>
+	</li><li><p style="margin-bottom: 0in">Each program gets a different part
+	of memory</p>
+	<ol>
+		<li><p style="margin-bottom: 0in">accomplished by dividing memory
+		up with an addressing scheme</p>
+		</li><li><p style="margin-bottom: 0in">independent of physical hardware
+		addresses</p>
+	</li></ol>
+	</li><li><p style="margin-bottom: 0in">the application write pages of
+	into to the reserved address space</p>
+</li></ol>
+<p style="margin-bottom: 0in">Locked memory<br></p>
+<ol>
+	<li><p style="margin-bottom: 0in">pages are locked in the memory
+	space</p>
+	</li><li><p style="margin-bottom: 0in">prevented from being written to
+	virtual memory</p>
+</li></ol>
+<p style="margin-bottom: 0in">Virtual memory<br></p>
+<ol>
+	<li><p style="margin-bottom: 0in">Use space on the hard disk as an
+	extension of ram</p>
+	</li><li><p style="margin-bottom: 0in">takes CPU about 20ns to access RAM
+	and 12,000,000ns to access HD</p>
+</li></ol>
+<p style="margin-bottom: 0in">Virtual Memory Vulnerability<br></p>
+<ol>
+	<li><p style="margin-bottom: 0in">data remains on the HD even with
+	the power is turn off (unlike RAM)</p>
+	</li><li><p style="margin-bottom: 0in">Solutions:</p>
+	<ol>
+		<li><p style="margin-bottom: 0in">With Windows you can store the
+		swap file in another partition that can be secured</p>
+		</li><li><p style="margin-bottom: 0in">With Linux its possible to
+		encrypt the partition that holds the swap file</p></li></ol></li></ol>
+<p style="margin-bottom: 0in">Encryption with paging</p>
+<ol>
+	<li><p style="margin-bottom: 0in">an encryption program reads data
+	in an encrypted file, decrypts it, and then works on the data while
+	its in memory</p>
+	</li><li><p style="margin-bottom: 0in">if the data is paged to the HD
+	then its no longer encrypted and could be available to unauthorized
+	users</p>
+	</li><li><p style="margin-bottom: 0in">a memory lock can be created by
+	the admen to prevent paging the encrypted data</p></li></ol>
+<p style="margin-bottom: 0in">Next Time</p>
+<p style="margin-bottom: 0in">1. I/O devices &nbsp;</p>

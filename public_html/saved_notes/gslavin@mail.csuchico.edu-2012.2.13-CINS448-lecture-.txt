@@ -1,0 +1,229 @@
+<font color="#000000" size="3" face="Times New Roman">
+
+</font><p style="margin: 0in 0in 0pt;" class="MsoNormal"><font size="3"><font color="#000000"><font face="Calibri">2/13/2012<?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" /><o:p></o:p></font></font></font></p><font color="#000000" size="3" face="Times New Roman">
+
+</font><p style="margin: 0in 0in 0pt;" class="MsoNormal"><o:p><font color="#000000" size="3" face="Calibri">&nbsp;</font></o:p></p><font color="#000000" size="3" face="Times New Roman">
+
+</font><p style="margin: 0in 0in 0pt;" class="MsoNormal"><font size="3"><font color="#000000"><font face="Calibri">Lecture
+Notes – CINS 448<o:p></o:p></font></font></font></p><font color="#000000" size="3" face="Times New Roman">
+
+</font><p style="margin: 0in 0in 0pt;" class="MsoNormal"><o:p><font color="#000000" size="3" face="Calibri">&nbsp;</font></o:p></p><font color="#000000" size="3" face="Times New Roman">
+
+</font><p style="margin: 0in 0in 0pt 0.5in; text-indent: -0.25in; mso-add-space: auto; mso-list: l0 level1 lfo1;" class="MsoListParagraphCxSpFirst"><font color="#000000"><span style="font-family: Symbol; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol;"><span style="mso-list: Ignore;"><font size="3">·</font><span style='font: 7pt/normal "Times New Roman"; font-size-adjust: none; font-stretch: normal;'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><font face="Calibri"><font size="3">Enterprise Architecture<o:p></o:p></font></font></font></p><font color="#000000" size="3" face="Times New Roman">
+
+</font><p style="margin: 0in 0in 0pt 1in; text-indent: -0.25in; mso-add-space: auto; mso-list: l0 level2 lfo1;" class="MsoListParagraphCxSpMiddle"><font color="#000000"><span style='font-family: "Courier New"; mso-fareast-font-family: "Courier New";'><span style="mso-list: Ignore;"><font size="3">o</font><span style='font: 7pt/normal "Times New Roman"; font-size-adjust: none; font-stretch: normal;'>&nbsp;&nbsp;
+</span></span></span><font face="Calibri"><font size="3">Zachman Framework<o:p></o:p></font></font></font></p><font color="#000000" size="3" face="Times New Roman">
+
+</font><p style="margin: 0in 0in 0pt 0.5in; text-indent: -0.25in; mso-add-space: auto; mso-list: l0 level1 lfo1;" class="MsoListParagraphCxSpMiddle"><font color="#000000"><span style="font-family: Symbol; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol;"><span style="mso-list: Ignore;"><font size="3">·</font><span style='font: 7pt/normal "Times New Roman"; font-size-adjust: none; font-stretch: normal;'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><font face="Calibri"><font size="3">Security Models<o:p></o:p></font></font></font></p><font color="#000000" size="3" face="Times New Roman">
+
+</font><p style="margin: 0in 0in 0pt 1in; text-indent: -0.25in; mso-add-space: auto; mso-list: l0 level2 lfo1;" class="MsoListParagraphCxSpMiddle"><font color="#000000"><span style='font-family: "Courier New"; mso-fareast-font-family: "Courier New";'><span style="mso-list: Ignore;"><font size="3">o</font><span style='font: 7pt/normal "Times New Roman"; font-size-adjust: none; font-stretch: normal;'>&nbsp;&nbsp;
+</span></span></span><font face="Calibri"><font size="3">Military Security Policy<o:p></o:p></font></font></font></p><font color="#000000" size="3" face="Times New Roman">
+
+</font><p style="margin: 0in 0in 0pt 1in; text-indent: -0.25in; mso-add-space: auto; mso-list: l0 level2 lfo1;" class="MsoListParagraphCxSpMiddle"><font color="#000000"><span style='font-family: "Courier New"; mso-fareast-font-family: "Courier New";'><span style="mso-list: Ignore;"><font size="3">o</font><span style='font: 7pt/normal "Times New Roman"; font-size-adjust: none; font-stretch: normal;'>&nbsp;&nbsp;
+</span></span></span><font face="Calibri"><font size="3">State machine Model<o:p></o:p></font></font></font></p><font color="#000000" size="3" face="Times New Roman">
+
+</font><p style="margin: 0in 0in 0pt 1in; text-indent: -0.25in; mso-add-space: auto; mso-list: l0 level2 lfo1;" class="MsoListParagraphCxSpMiddle"><font color="#000000"><span style='font-family: "Courier New"; mso-fareast-font-family: "Courier New";'><span style="mso-list: Ignore;"><font size="3">o</font><span style='font: 7pt/normal "Times New Roman"; font-size-adjust: none; font-stretch: normal;'>&nbsp;&nbsp;
+</span></span></span><font face="Calibri"><font size="3">Bell-LaPadula terms – solely focused on confidentiality
+of data<o:p></o:p></font></font></font></p><font color="#000000" size="3" face="Times New Roman">
+
+</font><p style="margin: 0in 0in 0pt 1.5in; text-indent: -0.25in; mso-add-space: auto; mso-list: l0 level3 lfo1;" class="MsoListParagraphCxSpMiddle"><font color="#000000"><span style="font-family: Wingdings; mso-fareast-font-family: Wingdings; mso-bidi-font-family: Wingdings;"><span style="mso-list: Ignore;"><font size="3">§</font><span style='font: 7pt/normal "Times New Roman"; font-size-adjust: none; font-stretch: normal;'>&nbsp;
+</span></span></span><font face="Calibri"><font size="3">Simple security property – “no read up” rule<o:p></o:p></font></font></font></p><font color="#000000" size="3" face="Times New Roman">
+
+</font><p style="margin: 0in 0in 0pt 2in; text-indent: -0.25in; mso-add-space: auto; mso-list: l0 level4 lfo1;" class="MsoListParagraphCxSpMiddle"><font color="#000000"><span style="font-family: Symbol; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol;"><span style="mso-list: Ignore;"><font size="3">·</font><span style='font: 7pt/normal "Times New Roman"; font-size-adjust: none; font-stretch: normal;'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><font face="Calibri"><font size="3">Subject can only read an object if the access
+class of the subject dominates the access class of the object<o:p></o:p></font></font></font></p><font color="#000000" size="3" face="Times New Roman">
+
+</font><p style="margin: 0in 0in 0pt 2.5in; text-indent: -0.25in; mso-add-space: auto; mso-list: l0 level5 lfo1;" class="MsoListParagraphCxSpMiddle"><font color="#000000"><span style='font-family: "Courier New"; mso-fareast-font-family: "Courier New";'><span style="mso-list: Ignore;"><font size="3">o</font><span style='font: 7pt/normal "Times New Roman"; font-size-adjust: none; font-stretch: normal;'>&nbsp;&nbsp;
+</span></span></span><font face="Calibri"><font size="3">Can’t read data above your classification level<o:p></o:p></font></font></font></p><font color="#000000" size="3" face="Times New Roman">
+
+</font><p style="margin: 0in 0in 0pt 2in; text-indent: -0.25in; mso-add-space: auto; mso-list: l0 level4 lfo1;" class="MsoListParagraphCxSpMiddle"><font color="#000000"><span style="font-family: Symbol; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol;"><span style="mso-list: Ignore;"><font size="3">·</font><span style='font: 7pt/normal "Times New Roman"; font-size-adjust: none; font-stretch: normal;'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><font face="Calibri"><font size="3">Subject can read down but cannot read up<o:p></o:p></font></font></font></p><font color="#000000" size="3" face="Times New Roman">
+
+</font><p style="margin: 0in 0in 0pt 1.5in; text-indent: -0.25in; mso-add-space: auto; mso-list: l0 level3 lfo1;" class="MsoListParagraphCxSpMiddle"><font color="#000000"><span style="font-family: Wingdings; mso-fareast-font-family: Wingdings; mso-bidi-font-family: Wingdings;"><span style="mso-list: Ignore;"><font size="3">§</font><span style='font: 7pt/normal "Times New Roman"; font-size-adjust: none; font-stretch: normal;'>&nbsp;
+</span></span></span><font face="Calibri"><font size="3">*property – “no write down” rule<o:p></o:p></font></font></font></p><font color="#000000" size="3" face="Times New Roman">
+
+</font><p style="margin: 0in 0in 0pt 2in; text-indent: -0.25in; mso-add-space: auto; mso-list: l0 level4 lfo1;" class="MsoListParagraphCxSpMiddle"><font color="#000000"><span style="font-family: Symbol; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol;"><span style="mso-list: Ignore;"><font size="3">·</font><span style='font: 7pt/normal "Times New Roman"; font-size-adjust: none; font-stretch: normal;'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><font face="Calibri"><font size="3">The controlling of write-down<o:p></o:p></font></font></font></p><font color="#000000" size="3" face="Times New Roman">
+
+</font><p style="margin: 0in 0in 0pt 2.5in; text-indent: -0.25in; mso-add-space: auto; mso-list: l0 level5 lfo1;" class="MsoListParagraphCxSpMiddle"><font color="#000000"><span style='font-family: "Courier New"; mso-fareast-font-family: "Courier New";'><span style="mso-list: Ignore;"><font size="3">o</font><span style='font: 7pt/normal "Times New Roman"; font-size-adjust: none; font-stretch: normal;'>&nbsp;&nbsp;
+</span></span></span><font face="Calibri"><font size="3">A process attempts to write info into a file
+whose access class is less than its own<o:p></o:p></font></font></font></p><font color="#000000" size="3" face="Times New Roman">
+
+</font><p style="margin: 0in 0in 0pt 2in; text-indent: -0.25in; mso-add-space: auto; mso-list: l0 level4 lfo1;" class="MsoListParagraphCxSpMiddle"><font color="#000000"><span style="font-family: Symbol; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol;"><span style="mso-list: Ignore;"><font size="3">·</font><span style='font: 7pt/normal "Times New Roman"; font-size-adjust: none; font-stretch: normal;'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><font face="Calibri"><font size="3">A subject can write up, but cannot write down<o:p></o:p></font></font></font></p><font color="#000000" size="3" face="Times New Roman">
+
+</font><p style="margin: 0in 0in 0pt 1.5in; text-indent: -0.25in; mso-add-space: auto; mso-list: l0 level3 lfo1;" class="MsoListParagraphCxSpMiddle"><font color="#000000"><span style="font-family: Wingdings; mso-fareast-font-family: Wingdings; mso-bidi-font-family: Wingdings;"><span style="mso-list: Ignore;"><font size="3">§</font><span style='font: 7pt/normal "Times New Roman"; font-size-adjust: none; font-stretch: normal;'>&nbsp;
+</span></span></span><font face="Calibri"><font size="3">Strong star property<o:p></o:p></font></font></font></p><font color="#000000" size="3" face="Times New Roman">
+
+</font><p style="margin: 0in 0in 0pt 2in; text-indent: -0.25in; mso-add-space: auto; mso-list: l0 level4 lfo1;" class="MsoListParagraphCxSpMiddle"><font color="#000000"><span style="font-family: Symbol; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol;"><span style="mso-list: Ignore;"><font size="3">·</font><span style='font: 7pt/normal "Times New Roman"; font-size-adjust: none; font-stretch: normal;'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><font face="Calibri"><font size="3">Subject with read and write capabilities<o:p></o:p></font></font></font></p><font color="#000000" size="3" face="Times New Roman">
+
+</font><p style="margin: 0in 0in 0pt 2.5in; text-indent: -0.25in; mso-add-space: auto; mso-list: l0 level5 lfo1;" class="MsoListParagraphCxSpMiddle"><font color="#000000"><span style='font-family: "Courier New"; mso-fareast-font-family: "Courier New";'><span style="mso-list: Ignore;"><font size="3">o</font><span style='font: 7pt/normal "Times New Roman"; font-size-adjust: none; font-stretch: normal;'>&nbsp;&nbsp;
+</span></span></span><font face="Calibri"><font size="3">Can only perform those functions at the same
+security level<o:p></o:p></font></font></font></p><font color="#000000" size="3" face="Times New Roman">
+
+</font><p style="margin: 0in 0in 0pt 2in; text-indent: -0.25in; mso-add-space: auto; mso-list: l0 level4 lfo1;" class="MsoListParagraphCxSpMiddle"><font color="#000000"><span style="font-family: Symbol; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol;"><span style="mso-list: Ignore;"><font size="3">·</font><span style='font: 7pt/normal "Times New Roman"; font-size-adjust: none; font-stretch: normal;'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><font face="Calibri"><font size="3">An alternative to the *property<o:p></o:p></font></font></font></p><font color="#000000" size="3" face="Times New Roman">
+
+</font><p style="margin: 0in 0in 0pt 1in; text-indent: -0.25in; mso-add-space: auto; mso-list: l0 level2 lfo1;" class="MsoListParagraphCxSpMiddle"><font color="#000000"><span style='font-family: "Courier New"; mso-fareast-font-family: "Courier New";'><span style="mso-list: Ignore;"><font size="3">o</font><span style='font: 7pt/normal "Times New Roman"; font-size-adjust: none; font-stretch: normal;'>&nbsp;&nbsp;
+</span></span></span><font face="Calibri"><font size="3">Biba Model – focused on integrity of data<o:p></o:p></font></font></font></p><font color="#000000" size="3" face="Times New Roman">
+
+</font><p style="margin: 0in 0in 0pt 1.5in; text-indent: -0.25in; mso-add-space: auto; mso-list: l0 level3 lfo1;" class="MsoListParagraphCxSpMiddle"><font color="#000000"><span style="font-family: Wingdings; mso-fareast-font-family: Wingdings; mso-bidi-font-family: Wingdings;"><span style="mso-list: Ignore;"><font size="3">§</font><span style='font: 7pt/normal "Times New Roman"; font-size-adjust: none; font-stretch: normal;'>&nbsp;
+</span></span></span><font face="Calibri"><font size="3">Addresses the integrity of data<o:p></o:p></font></font></font></p><font color="#000000" size="3" face="Times New Roman">
+
+</font><p style="margin: 0in 0in 0pt 1.5in; text-indent: -0.25in; mso-add-space: auto; mso-list: l0 level3 lfo1;" class="MsoListParagraphCxSpMiddle"><font color="#000000"><span style="font-family: Wingdings; mso-fareast-font-family: Wingdings; mso-bidi-font-family: Wingdings;"><span style="mso-list: Ignore;"><font size="3">§</font><span style='font: 7pt/normal "Times New Roman"; font-size-adjust: none; font-stretch: normal;'>&nbsp;
+</span></span></span><font face="Calibri"><font size="3">Read and write rules established in
+Bell-LaPadula model are reversed<o:p></o:p></font></font></font></p><font color="#000000" size="3" face="Times New Roman">
+
+</font><p style="margin: 0in 0in 0pt 2in; text-indent: -0.25in; mso-add-space: auto; mso-list: l0 level4 lfo1;" class="MsoListParagraphCxSpMiddle"><font color="#000000"><span style="font-family: Symbol; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol;"><span style="mso-list: Ignore;"><font size="3">·</font><span style='font: 7pt/normal "Times New Roman"; font-size-adjust: none; font-stretch: normal;'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><font face="Calibri"><font size="3">*integrity property (axiom) “no write up”<o:p></o:p></font></font></font></p><font color="#000000" size="3" face="Times New Roman">
+
+</font><p style="margin: 0in 0in 0pt 2.5in; text-indent: -0.25in; mso-add-space: auto; mso-list: l0 level5 lfo1;" class="MsoListParagraphCxSpMiddle"><font color="#000000"><span style='font-family: "Courier New"; mso-fareast-font-family: "Courier New";'><span style="mso-list: Ignore;"><font size="3">o</font><span style='font: 7pt/normal "Times New Roman"; font-size-adjust: none; font-stretch: normal;'>&nbsp;&nbsp;
+</span></span></span><font face="Calibri"><font size="3">A subject cannot write data to an object at a
+higher integrity level<o:p></o:p></font></font></font></p><font color="#000000" size="3" face="Times New Roman">
+
+</font><p style="margin: 0in 0in 0pt 2in; text-indent: -0.25in; mso-add-space: auto; mso-list: l0 level4 lfo1;" class="MsoListParagraphCxSpMiddle"><font color="#000000"><span style="font-family: Symbol; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol;"><span style="mso-list: Ignore;"><font size="3">·</font><span style='font: 7pt/normal "Times New Roman"; font-size-adjust: none; font-stretch: normal;'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><font face="Calibri"><font size="3">Simple integrity property “no read down”<o:p></o:p></font></font></font></p><font color="#000000" size="3" face="Times New Roman">
+
+</font><p style="margin: 0in 0in 0pt 2.5in; text-indent: -0.25in; mso-add-space: auto; mso-list: l0 level5 lfo1;" class="MsoListParagraphCxSpMiddle"><font color="#000000"><span style='font-family: "Courier New"; mso-fareast-font-family: "Courier New";'><span style="mso-list: Ignore;"><font size="3">o</font><span style='font: 7pt/normal "Times New Roman"; font-size-adjust: none; font-stretch: normal;'>&nbsp;&nbsp;
+</span></span></span><font face="Calibri"><font size="3">Subject cannot read data from a lower integrity
+level<o:p></o:p></font></font></font></p><font color="#000000" size="3" face="Times New Roman">
+
+</font><p style="margin: 0in 0in 0pt 1in; text-indent: -0.25in; mso-add-space: auto; mso-list: l0 level2 lfo1;" class="MsoListParagraphCxSpMiddle"><font color="#000000"><span style='font-family: "Courier New"; mso-fareast-font-family: "Courier New";'><span style="mso-list: Ignore;"><font size="3">o</font><span style='font: 7pt/normal "Times New Roman"; font-size-adjust: none; font-stretch: normal;'>&nbsp;&nbsp;
+</span></span></span><font face="Calibri"><font size="3">Clark-Wilson Model<o:p></o:p></font></font></font></p><font color="#000000" size="3" face="Times New Roman">
+
+</font><p style="margin: 0in 0in 0pt 1.5in; text-indent: -0.25in; mso-add-space: auto; mso-list: l0 level3 lfo1;" class="MsoListParagraphCxSpMiddle"><font color="#000000"><span style="font-family: Wingdings; mso-fareast-font-family: Wingdings; mso-bidi-font-family: Wingdings;"><span style="mso-list: Ignore;"><font size="3">§</font><span style='font: 7pt/normal "Times New Roman"; font-size-adjust: none; font-stretch: normal;'>&nbsp;
+</span></span></span><font face="Calibri"><font size="3">Addresses the integrity requirements of
+applications<o:p></o:p></font></font></font></p><font color="#000000" size="3" face="Times New Roman">
+
+</font><p style="margin: 0in 0in 0pt 1.5in; text-indent: -0.25in; mso-add-space: auto; mso-list: l0 level3 lfo1;" class="MsoListParagraphCxSpMiddle"><font color="#000000"><span style="font-family: Wingdings; mso-fareast-font-family: Wingdings; mso-bidi-font-family: Wingdings;"><span style="mso-list: Ignore;"><font size="3">§</font><span style='font: 7pt/normal "Times New Roman"; font-size-adjust: none; font-stretch: normal;'>&nbsp;
+</span></span></span><font face="Calibri"><font size="3">Subject/program binding<o:p></o:p></font></font></font></p><font color="#000000" size="3" face="Times New Roman">
+
+</font><p style="margin: 0in 0in 0pt 2in; text-indent: -0.25in; mso-add-space: auto; mso-list: l0 level4 lfo1;" class="MsoListParagraphCxSpMiddle"><font color="#000000"><span style="font-family: Symbol; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol;"><span style="mso-list: Ignore;"><font size="3">·</font><span style='font: 7pt/normal "Times New Roman"; font-size-adjust: none; font-stretch: normal;'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><font face="Calibri"><font size="3">Users have access to programs rather than to
+data<o:p></o:p></font></font></font></p><font color="#000000" size="3" face="Times New Roman">
+
+</font><p style="margin: 0in 0in 0pt 2in; text-indent: -0.25in; mso-add-space: auto; mso-list: l0 level4 lfo1;" class="MsoListParagraphCxSpMiddle"><font color="#000000"><span style="font-family: Symbol; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol;"><span style="mso-list: Ignore;"><font size="3">·</font><span style='font: 7pt/normal "Times New Roman"; font-size-adjust: none; font-stretch: normal;'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><font face="Calibri"><font size="3">Users access the program, which in turn accesses
+the system<o:p></o:p></font></font></font></p><font color="#000000" size="3" face="Times New Roman">
+
+</font><p style="margin: 0in 0in 0pt 1.5in; text-indent: -0.25in; mso-add-space: auto; mso-list: l0 level3 lfo1;" class="MsoListParagraphCxSpMiddle"><font color="#000000"><span style="font-family: Wingdings; mso-fareast-font-family: Wingdings; mso-bidi-font-family: Wingdings;"><span style="mso-list: Ignore;"><font size="3">§</font><span style='font: 7pt/normal "Times New Roman"; font-size-adjust: none; font-stretch: normal;'>&nbsp;
+</span></span></span><font face="Calibri"><font size="3">Internal consistency<o:p></o:p></font></font></font></p><font color="#000000" size="3" face="Times New Roman">
+
+</font><p style="margin: 0in 0in 0pt 2in; text-indent: -0.25in; mso-add-space: auto; mso-list: l0 level4 lfo1;" class="MsoListParagraphCxSpMiddle"><font color="#000000"><span style="font-family: Symbol; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol;"><span style="mso-list: Ignore;"><font size="3">·</font><span style='font: 7pt/normal "Times New Roman"; font-size-adjust: none; font-stretch: normal;'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><font face="Calibri"><font size="3">Process does what it is expected to do every
+time it is run<o:p></o:p></font></font></font></p><font color="#000000" size="3" face="Times New Roman">
+
+</font><p style="margin: 0in 0in 0pt 1.5in; text-indent: -0.25in; mso-add-space: auto; mso-list: l0 level3 lfo1;" class="MsoListParagraphCxSpMiddle"><font color="#000000"><span style="font-family: Wingdings; mso-fareast-font-family: Wingdings; mso-bidi-font-family: Wingdings;"><span style="mso-list: Ignore;"><font size="3">§</font><span style='font: 7pt/normal "Times New Roman"; font-size-adjust: none; font-stretch: normal;'>&nbsp;
+</span></span></span><font face="Calibri"><font size="3">External consistency<o:p></o:p></font></font></font></p><font color="#000000" size="3" face="Times New Roman">
+
+</font><p style="margin: 0in 0in 0pt 2in; text-indent: -0.25in; mso-add-space: auto; mso-list: l0 level4 lfo1;" class="MsoListParagraphCxSpMiddle"><font color="#000000"><span style="font-family: Symbol; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol;"><span style="mso-list: Ignore;"><font size="3">·</font><span style='font: 7pt/normal "Times New Roman"; font-size-adjust: none; font-stretch: normal;'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><font face="Calibri"><font size="3">Ensures that the data in the system is
+consistent with the value of similar data in the real world<o:p></o:p></font></font></font></p><font color="#000000" size="3" face="Times New Roman">
+
+</font><p style="margin: 0in 0in 0pt 1in; text-indent: -0.25in; mso-add-space: auto; mso-list: l0 level2 lfo1;" class="MsoListParagraphCxSpMiddle"><font color="#000000"><span style='font-family: "Courier New"; mso-fareast-font-family: "Courier New";'><span style="mso-list: Ignore;"><font size="3">o</font><span style='font: 7pt/normal "Times New Roman"; font-size-adjust: none; font-stretch: normal;'>&nbsp;&nbsp;
+</span></span></span><font face="Calibri"><font size="3">Goals of integrity models<o:p></o:p></font></font></font></p><font color="#000000" size="3" face="Times New Roman">
+
+</font><p style="margin: 0in 0in 0pt 1.5in; text-indent: -0.25in; mso-add-space: auto; mso-list: l0 level3 lfo1;" class="MsoListParagraphCxSpMiddle"><font color="#000000"><span style="font-family: Wingdings; mso-fareast-font-family: Wingdings; mso-bidi-font-family: Wingdings;"><span style="mso-list: Ignore;"><font size="3">§</font><span style='font: 7pt/normal "Times New Roman"; font-size-adjust: none; font-stretch: normal;'>&nbsp;
+</span></span></span><font face="Calibri"><font size="3">Prevent unauthorized users from making
+modifications<o:p></o:p></font></font></font></p><font color="#000000" size="3" face="Times New Roman">
+
+</font><p style="margin: 0in 0in 0pt 1.5in; text-indent: -0.25in; mso-add-space: auto; mso-list: l0 level3 lfo1;" class="MsoListParagraphCxSpMiddle"><font color="#000000"><span style="font-family: Wingdings; mso-fareast-font-family: Wingdings; mso-bidi-font-family: Wingdings;"><span style="mso-list: Ignore;"><font size="3">§</font><span style='font: 7pt/normal "Times New Roman"; font-size-adjust: none; font-stretch: normal;'>&nbsp;
+</span></span></span><font face="Calibri"><font size="3">Prevent authorized users from making improper
+modifications (separation of duties)<o:p></o:p></font></font></font></p><font color="#000000" size="3" face="Times New Roman">
+
+</font><p style="margin: 0in 0in 0pt 1.5in; text-indent: -0.25in; mso-add-space: auto; mso-list: l0 level3 lfo1;" class="MsoListParagraphCxSpMiddle"><font color="#000000"><span style="font-family: Wingdings; mso-fareast-font-family: Wingdings; mso-bidi-font-family: Wingdings;"><span style="mso-list: Ignore;"><font size="3">§</font><span style='font: 7pt/normal "Times New Roman"; font-size-adjust: none; font-stretch: normal;'>&nbsp;
+</span></span></span><font face="Calibri"><font size="3">Maintain internal and external consistency
+(well-formed transaction)<o:p></o:p></font></font></font></p><font color="#000000" size="3" face="Times New Roman">
+
+</font><p style="margin: 0in 0in 0pt 1.5in; text-indent: -0.25in; mso-add-space: auto; mso-list: l0 level3 lfo1;" class="MsoListParagraphCxSpMiddle"><font color="#000000"><span style="font-family: Wingdings; mso-fareast-font-family: Wingdings; mso-bidi-font-family: Wingdings;"><span style="mso-list: Ignore;"><font size="3">§</font><span style='font: 7pt/normal "Times New Roman"; font-size-adjust: none; font-stretch: normal;'>&nbsp;
+</span></span></span><font face="Calibri"><font size="3">Clark-Wilson addresses each of these goals<o:p></o:p></font></font></font></p><font color="#000000" size="3" face="Times New Roman">
+
+</font><p style="margin: 0in 0in 0pt 1.5in; text-indent: -0.25in; mso-add-space: auto; mso-list: l0 level3 lfo1;" class="MsoListParagraphCxSpMiddle"><font color="#000000"><span style="font-family: Wingdings; mso-fareast-font-family: Wingdings; mso-bidi-font-family: Wingdings;"><span style="mso-list: Ignore;"><font size="3">§</font><span style='font: 7pt/normal "Times New Roman"; font-size-adjust: none; font-stretch: normal;'>&nbsp;
+</span></span></span><font face="Calibri"><font size="3">Biba only addresses the first goal<o:p></o:p></font></font></font></p><font color="#000000" size="3" face="Times New Roman">
+
+</font><p style="margin: 0in 0in 0pt 1in; text-indent: -0.25in; mso-add-space: auto; mso-list: l0 level2 lfo1;" class="MsoListParagraphCxSpMiddle"><font color="#000000"><span style='font-family: "Courier New"; mso-fareast-font-family: "Courier New";'><span style="mso-list: Ignore;"><font size="3">o</font><span style='font: 7pt/normal "Times New Roman"; font-size-adjust: none; font-stretch: normal;'>&nbsp;&nbsp;
+</span></span></span><font face="Calibri"><font size="3">Access Control Matrix<o:p></o:p></font></font></font></p><font color="#000000" size="3" face="Times New Roman">
+
+</font><p style="margin: 0in 0in 0pt 1.5in; text-indent: -0.25in; mso-add-space: auto; mso-list: l0 level3 lfo1;" class="MsoListParagraphCxSpMiddle"><font color="#000000"><span style="font-family: Wingdings; mso-fareast-font-family: Wingdings; mso-bidi-font-family: Wingdings;"><span style="mso-list: Ignore;"><font size="3">§</font><span style='font: 7pt/normal "Times New Roman"; font-size-adjust: none; font-stretch: normal;'>&nbsp;
+</span></span></span><font face="Calibri"><font size="3">Subject<o:p></o:p></font></font></font></p><font color="#000000" size="3" face="Times New Roman">
+
+</font><p style="margin: 0in 0in 0pt 2in; text-indent: -0.25in; mso-add-space: auto; mso-list: l0 level4 lfo1;" class="MsoListParagraphCxSpMiddle"><font color="#000000"><span style="font-family: Symbol; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol;"><span style="mso-list: Ignore;"><font size="3">·</font><span style='font: 7pt/normal "Times New Roman"; font-size-adjust: none; font-stretch: normal;'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><font face="Calibri"><font size="3">Is an entity capable of accessing objects<o:p></o:p></font></font></font></p><font color="#000000" size="3" face="Times New Roman">
+
+</font><p style="margin: 0in 0in 0pt 2.5in; text-indent: -0.25in; mso-add-space: auto; mso-list: l0 level5 lfo1;" class="MsoListParagraphCxSpMiddle"><font color="#000000"><span style='font-family: "Courier New"; mso-fareast-font-family: "Courier New";'><span style="mso-list: Ignore;"><font size="3">o</font><span style='font: 7pt/normal "Times New Roman"; font-size-adjust: none; font-stretch: normal;'>&nbsp;&nbsp;
+</span></span></span><font face="Calibri"><font size="3">Users, applications, or processes<o:p></o:p></font></font></font></p><font color="#000000" size="3" face="Times New Roman">
+
+</font><p style="margin: 0in 0in 0pt 1.5in; text-indent: -0.25in; mso-add-space: auto; mso-list: l0 level3 lfo1;" class="MsoListParagraphCxSpMiddle"><font color="#000000"><span style="font-family: Wingdings; mso-fareast-font-family: Wingdings; mso-bidi-font-family: Wingdings;"><span style="mso-list: Ignore;"><font size="3">§</font><span style='font: 7pt/normal "Times New Roman"; font-size-adjust: none; font-stretch: normal;'>&nbsp;
+</span></span></span><font face="Calibri"><font size="3">Object<o:p></o:p></font></font></font></p><font color="#000000" size="3" face="Times New Roman">
+
+</font><p style="margin: 0in 0in 0pt 2in; text-indent: -0.25in; mso-add-space: auto; mso-list: l0 level4 lfo1;" class="MsoListParagraphCxSpMiddle"><font color="#000000"><span style="font-family: Symbol; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol;"><span style="mso-list: Ignore;"><font size="3">·</font><span style='font: 7pt/normal "Times New Roman"; font-size-adjust: none; font-stretch: normal;'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><font face="Calibri"><font size="3">Anything that is controlled<o:p></o:p></font></font></font></p><font color="#000000" size="3" face="Times New Roman">
+
+</font><p style="margin: 0in 0in 0pt 2.5in; text-indent: -0.25in; mso-add-space: auto; mso-list: l0 level5 lfo1;" class="MsoListParagraphCxSpMiddle"><font color="#000000"><span style='font-family: "Courier New"; mso-fareast-font-family: "Courier New";'><span style="mso-list: Ignore;"><font size="3">o</font><span style='font: 7pt/normal "Times New Roman"; font-size-adjust: none; font-stretch: normal;'>&nbsp;&nbsp;
+</span></span></span><font face="Calibri"><font size="3">Files, databases, and programs<o:p></o:p></font></font></font></p><font color="#000000" size="3" face="Times New Roman">
+
+</font><p style="margin: 0in 0in 0pt 1.5in; text-indent: -0.25in; mso-add-space: auto; mso-list: l0 level3 lfo1;" class="MsoListParagraphCxSpMiddle"><font color="#000000"><span style="font-family: Wingdings; mso-fareast-font-family: Wingdings; mso-bidi-font-family: Wingdings;"><span style="mso-list: Ignore;"><font size="3">§</font><span style='font: 7pt/normal "Times New Roman"; font-size-adjust: none; font-stretch: normal;'>&nbsp;
+</span></span></span><font face="Calibri"><font size="3">Access right<o:p></o:p></font></font></font></p><font color="#000000" size="3" face="Times New Roman">
+
+</font><p style="margin: 0in 0in 0pt 2in; text-indent: -0.25in; mso-add-space: auto; mso-list: l0 level4 lfo1;" class="MsoListParagraphCxSpMiddle"><font color="#000000"><span style="font-family: Symbol; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol;"><span style="mso-list: Ignore;"><font size="3">·</font><span style='font: 7pt/normal "Times New Roman"; font-size-adjust: none; font-stretch: normal;'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><font face="Calibri"><font size="3">Defines how a subject can access an object<o:p></o:p></font></font></font></p><font color="#000000" size="3" face="Times New Roman">
+
+</font><p style="margin: 0in 0in 0pt 2.5in; text-indent: -0.25in; mso-add-space: auto; mso-list: l0 level5 lfo1;" class="MsoListParagraphCxSpMiddle"><font color="#000000"><span style='font-family: "Courier New"; mso-fareast-font-family: "Courier New";'><span style="mso-list: Ignore;"><font size="3">o</font><span style='font: 7pt/normal "Times New Roman"; font-size-adjust: none; font-stretch: normal;'>&nbsp;&nbsp;
+</span></span></span><font face="Calibri"><font size="3">Such as read, write, execute, or delete<o:p></o:p></font></font></font></p><font color="#000000" size="3" face="Times New Roman">
+
+</font><p style="margin: 0in 0in 0pt 1.5in; text-indent: -0.25in; mso-add-space: auto; mso-list: l0 level3 lfo1;" class="MsoListParagraphCxSpMiddle"><font color="#000000"><span style="font-family: Wingdings; mso-fareast-font-family: Wingdings; mso-bidi-font-family: Wingdings;"><span style="mso-list: Ignore;"><font size="3">§</font><span style='font: 7pt/normal "Times New Roman"; font-size-adjust: none; font-stretch: normal;'>&nbsp;
+</span></span></span><font face="Calibri"><font size="3">Access control list<o:p></o:p></font></font></font></p><font color="#000000" size="3" face="Times New Roman">
+
+</font><p style="margin: 0in 0in 0pt 2in; text-indent: -0.25in; mso-add-space: auto; mso-list: l0 level4 lfo1;" class="MsoListParagraphCxSpMiddle"><font color="#000000"><span style="font-family: Symbol; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol;"><span style="mso-list: Ignore;"><font size="3">·</font><span style='font: 7pt/normal "Times New Roman"; font-size-adjust: none; font-stretch: normal;'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><font face="Calibri"><font size="3">Provides a list of all subjects and their access
+permissions<o:p></o:p></font></font></font></p><font color="#000000" size="3" face="Times New Roman">
+
+</font><p style="margin: 0in 0in 0pt 1.5in; text-indent: -0.25in; mso-add-space: auto; mso-list: l0 level3 lfo1;" class="MsoListParagraphCxSpMiddle"><font color="#000000"><span style="font-family: Wingdings; mso-fareast-font-family: Wingdings; mso-bidi-font-family: Wingdings;"><span style="mso-list: Ignore;"><font size="3">§</font><span style='font: 7pt/normal "Times New Roman"; font-size-adjust: none; font-stretch: normal;'>&nbsp;
+</span></span></span><font face="Calibri"><font size="3">Capability List<o:p></o:p></font></font></font></p><font color="#000000" size="3" face="Times New Roman">
+
+</font><p style="margin: 0in 0in 0pt 2in; text-indent: -0.25in; mso-add-space: auto; mso-list: l0 level4 lfo1;" class="MsoListParagraphCxSpMiddle"><font color="#000000"><span style="font-family: Symbol; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol;"><span style="mso-list: Ignore;"><font size="3">·</font><span style='font: 7pt/normal "Times New Roman"; font-size-adjust: none; font-stretch: normal;'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><font face="Calibri"><font size="3">Provides list of user and all levels of access
+to objects<o:p></o:p></font></font></font></p><font color="#000000" size="3" face="Times New Roman">
+
+</font><p style="margin: 0in 0in 0pt 1in; text-indent: -0.25in; mso-add-space: auto; mso-list: l0 level2 lfo1;" class="MsoListParagraphCxSpMiddle"><font color="#000000"><span style='font-family: "Courier New"; mso-fareast-font-family: "Courier New";'><span style="mso-list: Ignore;"><font size="3">o</font><span style='font: 7pt/normal "Times New Roman"; font-size-adjust: none; font-stretch: normal;'>&nbsp;&nbsp;
+</span></span></span><font face="Calibri"><font size="3">Chinese Wall model<o:p></o:p></font></font></font></p><font color="#000000" size="3" face="Times New Roman">
+
+</font><p style="margin: 0in 0in 0pt 1.5in; text-indent: -0.25in; mso-add-space: auto; mso-list: l0 level3 lfo1;" class="MsoListParagraphCxSpMiddle"><font color="#000000"><span style="font-family: Wingdings; mso-fareast-font-family: Wingdings; mso-bidi-font-family: Wingdings;"><span style="mso-list: Ignore;"><font size="3">§</font><span style='font: 7pt/normal "Times New Roman"; font-size-adjust: none; font-stretch: normal;'>&nbsp;
+</span></span></span><font face="Calibri"><font size="3">Proposed by Brewer and Nash in 1989<o:p></o:p></font></font></font></p><font color="#000000" size="3" face="Times New Roman">
+
+</font><p style="margin: 0in 0in 0pt 1.5in; text-indent: -0.25in; mso-add-space: auto; mso-list: l0 level3 lfo1;" class="MsoListParagraphCxSpMiddle"><font color="#000000"><span style="font-family: Wingdings; mso-fareast-font-family: Wingdings; mso-bidi-font-family: Wingdings;"><span style="mso-list: Ignore;"><font size="3">§</font><span style='font: 7pt/normal "Times New Roman"; font-size-adjust: none; font-stretch: normal;'>&nbsp;
+</span></span></span><font face="Calibri"><font size="3">Used to control access to mitigate conflict of
+interest in a consulting environment<o:p></o:p></font></font></font></p><font color="#000000" size="3" face="Times New Roman">
+
+</font><p style="margin: 0in 0in 0pt 1.5in; text-indent: -0.25in; mso-add-space: auto; mso-list: l0 level3 lfo1;" class="MsoListParagraphCxSpMiddle"><font color="#000000"><span style="font-family: Wingdings; mso-fareast-font-family: Wingdings; mso-bidi-font-family: Wingdings;"><span style="mso-list: Ignore;"><font size="3">§</font><span style='font: 7pt/normal "Times New Roman"; font-size-adjust: none; font-stretch: normal;'>&nbsp;
+</span></span></span><font face="Calibri"><font size="3">Conflicts arise when customers are direct
+competitors<o:p></o:p></font></font></font></p><font color="#000000" size="3" face="Times New Roman">
+
+</font><p style="margin: 0in 0in 0pt 1in; text-indent: -0.25in; mso-add-space: auto; mso-list: l0 level2 lfo1;" class="MsoListParagraphCxSpMiddle"><font color="#000000"><span style='font-family: "Courier New"; mso-fareast-font-family: "Courier New";'><span style="mso-list: Ignore;"><font size="3">o</font><span style='font: 7pt/normal "Times New Roman"; font-size-adjust: none; font-stretch: normal;'>&nbsp;&nbsp;
+</span></span></span><font face="Calibri"><font size="3">Lattice Model<o:p></o:p></font></font></font></p><font color="#000000" size="3" face="Times New Roman">
+
+</font><p style="margin: 0in 0in 0pt 1.5in; text-indent: -0.25in; mso-add-space: auto; mso-list: l0 level3 lfo1;" class="MsoListParagraphCxSpMiddle"><font color="#000000"><span style="font-family: Wingdings; mso-fareast-font-family: Wingdings; mso-bidi-font-family: Wingdings;"><span style="mso-list: Ignore;"><font size="3">§</font><span style='font: 7pt/normal "Times New Roman"; font-size-adjust: none; font-stretch: normal;'>&nbsp;
+</span></span></span><font face="Calibri"><font size="3">Includes access levels and categories<o:p></o:p></font></font></font></p><font color="#000000" size="3" face="Times New Roman">
+
+</font><p style="margin: 0in 0in 0pt 2in; text-indent: -0.25in; mso-add-space: auto; mso-list: l0 level4 lfo1;" class="MsoListParagraphCxSpMiddle"><font color="#000000"><span style="font-family: Symbol; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol;"><span style="mso-list: Ignore;"><font size="3">·</font><span style='font: 7pt/normal "Times New Roman"; font-size-adjust: none; font-stretch: normal;'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><font face="Calibri"><font size="3">Class – top secret<o:p></o:p></font></font></font></p><font color="#000000" size="3" face="Times New Roman">
+
+</font><p style="margin: 0in 0in 0pt 2in; text-indent: -0.25in; mso-add-space: auto; mso-list: l0 level4 lfo1;" class="MsoListParagraphCxSpMiddle"><font color="#000000"><span style="font-family: Symbol; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol;"><span style="mso-list: Ignore;"><font size="3">·</font><span style='font: 7pt/normal "Times New Roman"; font-size-adjust: none; font-stretch: normal;'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><font face="Calibri"><font size="3">Categories – DoD, NATO, Nuclear<o:p></o:p></font></font></font></p><font color="#000000" size="3" face="Times New Roman">
+
+</font><p style="margin: 0in 0in 0pt 1.5in; text-indent: -0.25in; mso-add-space: auto; mso-list: l0 level3 lfo1;" class="MsoListParagraphCxSpMiddle"><font color="#000000"><span style="font-family: Wingdings; mso-fareast-font-family: Wingdings; mso-bidi-font-family: Wingdings;"><span style="mso-list: Ignore;"><font size="3">§</font><span style='font: 7pt/normal "Times New Roman"; font-size-adjust: none; font-stretch: normal;'>&nbsp;
+</span></span></span><font face="Calibri"><font size="3">To obtain access to info the user must possess
+the correct access class plus all of the categories assigned to that info<o:p></o:p></font></font></font></p><font color="#000000" size="3" face="Times New Roman">
+
+</font><p style="margin: 0in 0in 0pt 1.5in; text-indent: -0.25in; mso-add-space: auto; mso-list: l0 level3 lfo1;" class="MsoListParagraphCxSpMiddle"><font color="#000000"><span style="font-family: Wingdings; mso-fareast-font-family: Wingdings; mso-bidi-font-family: Wingdings;"><span style="mso-list: Ignore;"><font size="3">§</font><span style='font: 7pt/normal "Times New Roman"; font-size-adjust: none; font-stretch: normal;'>&nbsp;
+</span></span></span><font face="Calibri"><font size="3">Dominate<o:p></o:p></font></font></font></p><font color="#000000" size="3" face="Times New Roman">
+
+</font><p style="margin: 0in 0in 0pt 2in; text-indent: -0.25in; mso-add-space: auto; mso-list: l0 level4 lfo1;" class="MsoListParagraphCxSpMiddle"><font color="#000000"><span style="font-family: Symbol; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol;"><span style="mso-list: Ignore;"><font size="3">·</font><span style='font: 7pt/normal "Times New Roman"; font-size-adjust: none; font-stretch: normal;'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><font face="Calibri"><font size="3">Greater than or equal to<o:p></o:p></font></font></font></p><font color="#000000" size="3" face="Times New Roman">
+
+</font><p style="margin: 0in 0in 0pt 1in; text-indent: -0.25in; mso-add-space: auto; mso-list: l0 level2 lfo1;" class="MsoListParagraphCxSpLast"><font color="#000000"><span style='font-family: "Courier New"; mso-fareast-font-family: "Courier New";'><span style="mso-list: Ignore;"><font size="3">o</font><span style='font: 7pt/normal "Times New Roman"; font-size-adjust: none; font-stretch: normal;'>&nbsp;&nbsp;
+</span></span></span><font size="3"><font face="Calibri">Security technologies by operating systems –
+next time</font></font></font><br></p>

@@ -1,0 +1,120 @@
+	
+	
+	
+
+
+<p style="margin-bottom: 0in">2/20/12</p>
+<p style="margin-bottom: 0in">Day 13</p>
+<p style="margin-bottom: 0in">Homework:</p>
+<p style="margin-bottom: 0in">pecha-kucha</p>
+<ol>
+	<li><p style="margin-bottom: 0in">3 people per group</p>
+	</li><li><p style="margin-bottom: 0in">Matthew, Chris, Derek</p>
+	</li><li><p style="margin-bottom: 0in">See learn for options</p></li></ol>
+<p style="margin-bottom: 0in">Threats</p>
+<ol>
+	<li><p style="margin-bottom: 0in">DDos</p>
+	<ol>
+		<li><p style="margin-bottom: 0in">Smurf attack</p>
+		</li><li><p style="margin-bottom: 0in">Syn flooding</p>
+		</li><li><p style="margin-bottom: 0in">Ping of Death</p>
+	</li></ol>
+	</li><li><p style="margin-bottom: 0in">Malicious code</p>
+	<ol>
+		<li><p style="margin-bottom: 0in">Virus</p>
+		</li><li><p style="margin-bottom: 0in">Worm</p>
+		</li><li><p style="margin-bottom: 0in">Trojan horse</p>
+		</li><li><p style="margin-bottom: 0in">Logic bomb</p>
+		</li><li><p style="margin-bottom: 0in">Hoax</p></li></ol></li></ol>
+<p style="margin-bottom: 0in">password vulnerabilities</p>
+<ol>
+	<li><p style="margin-bottom: 0in">Hacker steals the file that
+	contains a list of the passwords</p>
+	<ol>
+		<li><p style="margin-bottom: 0in">Most networking operation systems
+		provide encryption algorithms (hashing) to protect the contents of
+		the file</p>
+	</li></ol>
+	</li><li><p style="margin-bottom: 0in">Weak passwords</p>
+	</li><li><p style="margin-bottom: 0in">Social Engineering</p>
+	</li><li><p style="margin-bottom: 0in">Sniffers (key loggers | wireshark)</p>
+	<ol>
+		<li><p style="margin-bottom: 0in">CSU Chico VPN create account |
+		look into</p>
+	</li></ol>
+	</li><li><p style="margin-bottom: 0in">Trojan Horse</p>
+	</li><li><p style="margin-bottom: 0in">Hardware of Software keyboard
+	interrupt</p></li></ol>
+<p style="margin-bottom: 0in">Mitigate those Vulnerabilities by
+implementing access controls</p>
+<ol>
+	<li><p style="margin-bottom: 0in">Administrative controls</p>
+	<ol>
+		<li><p style="margin-bottom: 0in">policies and procedures</p>
+	</li></ol>
+	</li><li><p style="margin-bottom: 0in">physical controls</p>
+	<ol>
+		<li><p style="margin-bottom: 0in">locks and badge systems</p>
+	</li></ol>
+	</li><li><p style="margin-bottom: 0in">Technical Controls</p>
+	<ol>
+		<li><p style="margin-bottom: 0in">Passwords, firewalls, smart
+		cards, encryptions, etc.</p>
+	</li></ol>
+</li></ol>
+<p style="margin-bottom: 0in">Two types of access<br></p>
+<ol>
+	<li><p style="margin-bottom: 0in">Access to data</p>
+	</li><li><p style="margin-bottom: 0in">Access to the system</p>
+	<ol>
+		<li><p style="margin-bottom: 0in">Controlled by implementing</p>
+		</li><li><p style="margin-bottom: 0in">Identifications and
+		authentication</p>
+		</li><li><p style="margin-bottom: 0in">Remote, centralized, and
+		decentralized access control methods</p>
+	</li></ol>
+</li></ol>
+<p style="margin-bottom: 0in">Identification and Authentication<br></p>
+<ol>
+	<li><p style="margin-bottom: 0in">Steps</p>
+	<ol>
+		<li><p style="margin-bottom: 0in">Identify the user</p>
+		</li><li><p style="margin-bottom: 0in">Proves the user is who he says he
+		is (authentication)</p>
+		</li><li><p style="margin-bottom: 0in">Authentication vs authorization</p>
+		</li><li><p style="margin-bottom: 0in">Authorization establishes what
+		the user is allowed to do once the user has been authenticated by
+		the system</p>
+	</li></ol>
+</li></ol>
+<p style="margin-bottom: 0in">Identification provides<br></p>
+<ol>
+	<li><p style="margin-bottom: 0in">Asserts user identity</p>
+	</li><li><p style="margin-bottom: 0in">Provides accountability</p>
+	</li><li><p style="margin-bottom: 0in">When using an audit trail</p>
+</li></ol>
+<p style="margin-bottom: 0in">Types of identification<br></p>
+<ol>
+	<li><p style="margin-bottom: 0in">Username / logon ID / user ID /
+	account number</p>
+	</li><li><p style="margin-bottom: 0in">Badge systems using smart cards</p>
+	</li><li><p style="margin-bottom: 0in">Biometric devices</p>
+</li></ol>
+<p style="margin-bottom: 0in">Guideline for user identification<br></p>
+<ol>
+	<li><p style="margin-bottom: 0in">Issuance</p>
+	<ol>
+		<li><p style="margin-bottom: 0in">Process should be secure and
+		documented</p>
+	</li></ol>
+	</li><li><p style="margin-bottom: 0in">Naming standards</p>
+	</li><li><p style="margin-bottom: 0in">Non-descriptive of job function</p>
+	</li><li><p style="margin-bottom: 0in">No sharing</p>
+	</li><li><p style="margin-bottom: 0in">Verifiable</p>
+	</li><li><p style="margin-bottom: 0in">Unique</p></li></ol>
+<ol>
+	
+		<p style="margin-bottom: 0in"> 
+		</p>
+	
+</ol>

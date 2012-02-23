@@ -1,0 +1,157 @@
+
+	
+	
+	
+
+
+<p style="margin-bottom: 0in">2/17/12</p>
+<p style="margin-bottom: 0in">Day 12</p>
+<p style="margin-bottom: 0in"><br>
+</p>
+<p style="margin-bottom: 0in">Information Technology Security
+Evaluation Criteria (ITSEC)</p>
+<ol>
+	<li><p style="margin-bottom: 0in">Drafted by European countries in
+	1990</p>
+	</li><li><p style="margin-bottom: 0in">Includes concepts from TCSEC
+	(Orange book)</p>
+	<ol>
+		<li><p style="margin-bottom: 0in">Thought orange book was too rigid</p>
+	</li></ol>
+	</li><li><p style="margin-bottom: 0in">Adds integrity and availability as
+	security goals</p>
+	</li><li><p style="margin-bottom: 0in">Recognizes that the security of an
+	IT system can often be achieved through non technical measures, such
+	as organizational and administrative controls</p>
+	</li><li><p style="margin-bottom: 0in">Ratings based on effectiveness and
+	correctness</p></li></ol>
+<p style="margin-bottom: 0in">International Computer Security
+Association (ICSA)</p>
+<ol>
+	<li><p style="margin-bottom: 0in">Goal is to develop criteria for at
+	least 80% of commercial off the shelf (COTS) products</p>
+	</li><li><p style="margin-bottom: 0in">Criteria are based on threats that
+	occur most frequently</p></li></ol>
+<p style="margin-bottom: 0in">Certification and Accreditation</p>
+<ol>
+	<li><p style="margin-bottom: 0in">Set of procedures and judgments
+	assessing the suitability of a system to operate in a target
+	operational environment</p>
+	</li><li><p style="margin-bottom: 0in">Often used for non certified
+	products</p>
+	<ol>
+		<li><p style="margin-bottom: 0in">Certification</p>
+		<ol>
+			<li><p style="margin-bottom: 0in">Endorsement that the system
+			application meets their functional and security requirements</p>
+		</li></ol>
+		</li><li><p style="margin-bottom: 0in">Accreditation</p>
+		<ol>
+			<li><p style="margin-bottom: 0in">Formal approval by management</p></li></ol></li></ol></li></ol>
+<p style="margin-bottom: 0in">End of Second Domain</p>
+<p style="margin-bottom: 0in">What we cover in this next domain:</p>
+<ol>
+	<li><p style="margin-bottom: 0in">Description of carious types of
+	attacks</p>
+	</li><li><p style="margin-bottom: 0in">types of authentication</p>
+	<ol>
+		<li><p style="margin-bottom: 0in">passwords</p>
+		</li><li><p style="margin-bottom: 0in">tokens</p>
+		</li><li><p style="margin-bottom: 0in">challenge response devices</p>
+		</li><li><p style="margin-bottom: 0in">smart cards</p>
+		</li><li><p style="margin-bottom: 0in">biometric devices</p>
+		<ol>
+			<li><p style="margin-bottom: 0in">fingerprint</p>
+			</li><li><p style="margin-bottom: 0in">retina scan</p>
+			</li><li><p style="margin-bottom: 0in">iris scan</p>
+			</li><li><p style="margin-bottom: 0in">voice pattern</p>
+			</li><li><p style="margin-bottom: 0in">signature dynamics</p></li></ol></li></ol></li></ol>
+<p style="margin-bottom: 0in">And Also...</p>
+<ol>
+	<li><p style="margin-bottom: 0in">Remote access controls</p>
+	</li><li><p style="margin-bottom: 0in">Radius...</p></li></ol>
+<p style="margin-bottom: 0in">History of Access control</p>
+<p style="margin-bottom: 0in">Earliest example of challenge response
+system</p>
+<ol>
+	<li><p style="margin-bottom: 0in">Shared secret word</p>
+	<ol>
+		<li><p style="margin-bottom: 0in">Sender would speak the first
+		secret word</p>
+		</li><li><p style="margin-bottom: 0in">wait for the correct secret word
+		in response</p>
+		</li><li><p style="margin-bottom: 0in">is the response was not part of
+		the shared secret words access</p></li></ol></li></ol>
+<p style="margin-bottom: 0in">Access controls are designed to
+protection</p>
+<ol>
+	<li><p style="margin-bottom: 0in">The system</p>
+	<ol>
+		<li><p style="margin-bottom: 0in">Hardware, OS, and applications</p>
+	</li></ol>
+	</li><li><p style="margin-bottom: 0in">Network connections</p>
+	</li><li><p style="margin-bottom: 0in">Physical environment</p>
+	<ol>
+		<li><p style="margin-bottom: 0in">Entry points to building</p>
+		</li><li><p style="margin-bottom: 0in">Computer centers</p>
+		</li><li><p style="margin-bottom: 0in">Specific users workstation</p></li></ol></li></ol>
+<p style="margin-bottom: 0in">Access Control Mechanisms protect
+against threats to:</p>
+<ol>
+	<li><p style="margin-bottom: 0in">availability</p>
+	</li><li><p style="margin-bottom: 0in">an asset on the system is
+	destroyed, rendered unavailable, or cause to be unusable</p>
+	</li><li><p style="margin-bottom: 0in">Integrity</p>
+	</li><li><p style="margin-bottom: 0in">an unauthorized entity gains
+	access and tampers with a system resource</p>
+	</li><li><p style="margin-bottom: 0in">or inserts objects in to the
+	system</p>
+	</li><li><p style="margin-bottom: 0in">confidentiality</p>
+	</li><li><p style="margin-bottom: 0in">an entity gains unauthorized
+	access to sensitive information</p></li></ol>
+<p style="margin-bottom: 0in">Threats to protect against:</p>
+<ol>
+	<li><p style="margin-bottom: 0in">Buffer overflow</p>
+	</li><li><p style="margin-bottom: 0in">Convert channels</p>
+	</li><li><p style="margin-bottom: 0in">Data eminence</p>
+	</li><li><p style="margin-bottom: 0in">Eavesdropping</p>
+	</li><li><p style="margin-bottom: 0in">Emanations</p>
+	</li><li><p style="margin-bottom: 0in">Internal intruders</p>
+	</li><li><p style="margin-bottom: 0in">Man in the Middle attacks</p>
+	</li><li><p style="margin-bottom: 0in">Mobile code</p>
+	</li><li><p style="margin-bottom: 0in">object reuse</p>
+	</li><li><p style="margin-bottom: 0in">…</p></li></ol>
+<p style="margin-bottom: 0in">– STUXNET –</p>
+<p style="margin-bottom: 0in">Discovered</p>
+<ol>
+	<li><p style="margin-bottom: 0in">June 2010</p></li></ol>
+<p style="margin-bottom: 0in">Vulnerabilities – Zero Days</p>
+<ol>
+	<li><p style="margin-bottom: 0in">LNK</p>
+	</li><li><p style="margin-bottom: 0in">Print Spooler</p>
+	</li><li><p style="margin-bottom: 0in">Serves Service</p>
+	</li><li><p style="margin-bottom: 0in">Privilege escalation via:</p>
+	<ol>
+		<li><p style="margin-bottom: 0in">keyboard layout file</p>
+		</li><li><p style="margin-bottom: 0in">task scheduler</p></li></ol></li></ol>
+<p style="margin-bottom: 0in">Target</p>
+<ol>
+	<li><p style="margin-bottom: 0in">PLC – On the nuclear refinery
+	centrifuges in Iran</p>
+	</li><li><p style="margin-bottom: 0in">step 7 – windows</p></li></ol>
+<p style="margin-bottom: 0in">How it originally spread</p>
+<ol>
+	<li><p style="margin-bottom: 0in">usb Flash Drives</p>
+	</li><li><p style="margin-bottom: 0in">peer ro peer</p>
+	</li><li><p style="margin-bottom: 0in">RPC</p></li></ol>
+<p style="margin-bottom: 0in">Max systems spread too</p>
+<ol>
+	<li><p style="margin-bottom: 0in">3 systems max</p></li></ol>
+<p style="margin-bottom: 0in">Day to die</p>
+<p style="margin-bottom: 0in">1. June 24, 2012</p>
+<ol>
+	
+		<p style="margin-bottom: 0in"> 
+		</p>
+	
+</ol>

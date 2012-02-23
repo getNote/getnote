@@ -1,0 +1,157 @@
+
+	
+	
+	
+
+
+<p style="margin-bottom: 0in">2/15/12</p>
+<p style="margin-bottom: 0in">Day 11</p>
+<p style="margin-bottom: 0in">OWASP Appsec Tutorial Series –
+Episode 2: SQL Injection</p>
+<p style="margin-bottom: 0in"><br>
+</p>
+<p style="margin-bottom: 0in">Security Technologies used by Operating
+Systems</p>
+<ol>
+	<li><p style="margin-bottom: 0in">Trusted Computer Base (TCB)</p>
+	</li><li><p style="margin-bottom: 0in">Reference Monitor</p>
+	</li><li><p style="margin-bottom: 0in">Security Kernel 
+	</p>
+</li></ol>
+<p style="margin-bottom: 0in">Trusted Computing Base TCB<br></p>
+<ol>
+	<li><p style="margin-bottom: 0in">What needs to be trusted?</p>
+	<ol>
+		<li><p style="margin-bottom: 0in">Process Activation - HD → RAM →
+		CPU</p>
+		</li><li><p style="margin-bottom: 0in">Execution Domain Switching</p>
+		</li><li><p style="margin-bottom: 0in">Memory Protection – paging
+		secure memory</p>
+		</li><li><p style="margin-bottom: 0in">I/O Operations</p>
+		<p style="margin-bottom: 0in"></p>
+	</li></ol>
+</li></ol>
+<p style="margin-bottom: 0in">Reference Monitor</p><p style="margin-bottom: 0in">* An abstract machine that mediates
+		all access subjects have to objects based on info in access control
+		database</p>
+<p style="margin-bottom: 0in"><br></p><p style="margin-bottom: 0in">Security kernel<br></p>
+<ol>
+	<li><p style="margin-bottom: 0in">invokes the reference monitor for
+	all access attempts</p>
+	</li><li><p style="margin-bottom: 0in">is the hardware, firmware, and
+	software elements of the TCB</p>
+	</li><li><p style="margin-bottom: 0in">must be implemented to prevent
+	users from modifying the OS</p>
+	</li><li><p style="margin-bottom: 0in">Security Perimeter</p>
+	<ol>
+		<li><p style="margin-bottom: 0in">refers to the boundaries
+		surrounding the security kernel</p>
+	</li></ol>
+</li></ol>
+<p style="margin-bottom: 0in">Putting it all Together...<br></p>
+<p style="margin-bottom: 0in">Typical characteristics of a trusted OS</p>
+<ol>
+	<li><p style="margin-bottom: 0in">user identification and
+	authentication</p>
+	</li><li><p style="margin-bottom: 0in">mandatory access control</p>
+	</li><li><p style="margin-bottom: 0in">object reuse protection</p>
+	<ol>
+		<li><p style="margin-bottom: 0in">ensure info is purged from memory
+		and magnetic media before assignment to a new subject</p>
+	</li></ol>
+	</li><li><p style="margin-bottom: 0in">able to generate security relevant
+	events</p>
+	</li><li><p style="margin-bottom: 0in">preemptive multitasking</p>
+	<ol>
+		<li><p style="margin-bottom: 0in">the system can suspend a process
+		that is using the CPU and allow another process access to it</p>
+	</li></ol>
+</li></ol>
+<p style="margin-bottom: 0in">Application Layer Protection<br></p>
+<ol>
+	<li><p style="margin-bottom: 0in">All input from an external source
+	must be validated prior to processing</p>
+	</li><li><p style="margin-bottom: 0in">Verify that input is of the proper
+	type and within the specified ranges</p>
+	</li><li><p style="margin-bottom: 0in">SQL injection attack</p>
+	<ol>
+		<li><p style="margin-bottom: 0in">href='https://www.osasp.org/index.php/SQL_Injection'</p>
+	</li></ol>
+</li></ol>
+<p style="margin-bottom: 0in">SQL review<br></p>
+<p style="margin-bottom: 0in">select * from TABLE where  name=$name
+and psw=$password OR 1=1; --(comment)   &lt;--- injected 
+</p>
+<p style="margin-bottom: 0in"><br>
+</p>
+<p style="margin-bottom: 0in">Homework</p>
+<p style="margin-bottom: 0in">log in as admin</p>
+<p style="margin-bottom: 0in"><br>
+</p>
+<p style="margin-bottom: 0in">Evaluation Standards</p>
+<p style="margin-bottom: 0in"><br>
+</p>
+<p style="margin-bottom: 0in">Trusted Computer Security Evaluation
+Criteria (TCSES)</p>
+<ol>
+	<li><p style="margin-bottom: 0in">First standard to gain widespread
+	acceptance</p>
+	</li><li><p style="margin-bottom: 0in">Also know as the “orange book”</p>
+	<ol>
+		<li><p style="margin-bottom: 0in">because it is part of the rainbow
+		series (all related to computer security)</p>
+	</li></ol>
+	</li><li><p style="margin-bottom: 0in">focuses on confidentiality</p>
+</li></ol>
+<p style="margin-bottom: 0in">Evaluates:</p>
+<ol>
+	<li><p style="margin-bottom: 0in">system protection mechanisms</p>
+	</li><li><p style="margin-bottom: 0in">system design</p>
+	</li><li><p style="margin-bottom: 0in">specifications</p>
+	</li><li><p style="margin-bottom: 0in">development procedures</p>
+	</li><li><p style="margin-bottom: 0in">supporting documentation</p>
+	</li><li><p style="margin-bottom: 0in">testing results</p>
+</li></ol>
+<p style="margin-bottom: 0in">TCSES Rating Scale<br></p>
+<ol>
+	<li><p style="margin-bottom: 0in">A = Verified Protection</p>
+	</li><li><p style="margin-bottom: 0in">B = Mandatory Protection</p>
+	<ol>
+		<li><p style="margin-bottom: 0in">Enforces Bell ...</p>
+	</li></ol>
+	</li><li><p style="margin-bottom: 0in">C = Discretization and Controlled
+	security protection</p>
+	</li><li><p style="margin-bottom: 0in">D = Minimal Protection 
+	</p>
+</li></ol>
+<p style="margin-bottom: 0in">Common Criteria<br></p>
+<ol>
+	<li><p style="margin-bottom: 0in">International standard</p>
+	</li><li><p style="margin-bottom: 0in">Instead of updating the TCSEC the
+	U.S. Joined forces with the Europeans and Canadians to create the CC</p>
+	</li><li><p style="margin-bottom: 0in">Based on both functionality and
+	assurance in terms of CIA</p>
+</li></ol>
+<p style="margin-bottom: 0in">Trusted network Interpretation (TNI)<br></p>
+<ol>
+	<li><p style="margin-bottom: 0in">Red Book 1987</p>
+	<ol>
+		<li><p style="margin-bottom: 0in">based on Orange Book</p>
+	</li></ol>
+	</li><li><p style="margin-bottom: 0in">Addresses network and
+	telecommunications</p>
+	</li><li><p style="margin-bottom: 0in">a b c d still used</p>
+</li></ol>
+<p style="margin-bottom: 0in">Information Technology Security
+Evaluation Criteria (ITSEC<br></p>
+<ol>
+	<li><p style="margin-bottom: 0in">Drafted by European countries in
+	1990</p>
+	</li><li><p style="margin-bottom: 0in">Includes concepts from Orange book
+	(TCSEC)...</p></li></ol>
+<ol>
+	<ol start="4">
+		<p style="margin-bottom: 0in"> 
+		</p>
+	</ol>
+</ol>

@@ -1,0 +1,196 @@
+
+	
+	
+	
+
+
+<p style="margin-bottom: 0in">1/30/12</p>
+<p style="margin-bottom: 0in">Day 4</p>
+<p style="margin-bottom: 0in"><br>
+</p>
+<p style="margin-bottom: 0in">Look familiar?</p>
+<ol>
+	<li><p style="margin-bottom: 0in">Quantitative vs Qualitative</p>
+	</li><li><p style="margin-bottom: 0in">Risk Analysis</p>
+	</li><li><p style="margin-bottom: 0in">Risk Assessment</p>
+	</li><li><p style="margin-bottom: 0in">Safeguard</p>
+	</li><li><p style="margin-bottom: 0in">Uncertainty</p>
+	</li><li><p style="margin-bottom: 0in">Vulnerability</p>
+	</li><li><p style="margin-bottom: 0in">Risk Analysis Matrix</p>
+	</li><li><p style="margin-bottom: 0in">Cost Benefit Analysis</p>
+	</li><li><p style="margin-bottom: 0in">TCO and ROI</p></li></ol>
+<p style="margin-bottom: 0in">Example</p>
+<p style="margin-bottom: 0in">if there was a fire we would expect to
+lose 50% of our assets (exposure factor) which are worth $1 million.</p>
+<p style="margin-bottom: 0in"><br>
+</p>
+<p style="margin-bottom: 0in">The annualized rate of occurrence is
+1/10 (once in 10 years)</p>
+<p style="margin-bottom: 0in">($1M x 50% = $5000K) x 1/10 = $50K</p>
+<p style="margin-bottom: 0in"><br>
+</p>
+<p style="margin-bottom: 0in">What the example leaves out:</p>
+<ol>
+	<li><p style="margin-bottom: 0in">The algorithm doesn't include
+	safeguard effectiveness or uncertainty</p>
+	</li><li><p style="margin-bottom: 0in">The algorithm cannot distinguish
+	effectively between low-frequency / high impact threats (fires_ and
+	high-frequency / low-impact threats (misuse of resources)</p>
+	</li><li><p style="margin-bottom: 0in">Solution – Use an automated risk
+	assessment tool</p></li></ol>
+<p style="margin-bottom: 0in">What are going to do today?</p>
+<ol>
+	<li><p style="margin-bottom: 0in">Map Safeguards to Risks</p>
+	</li><li><p style="margin-bottom: 0in">Gross Risk Reduction Benefit</p>
+	</li><li><p style="margin-bottom: 0in">Net Annual Benefit</p>
+	</li><li><p style="margin-bottom: 0in">Information Security Policy 
+	</p>
+	</li><li><p style="margin-bottom: 0in">Who creates Classifications</p>
+	</li><li><p style="margin-bottom: 0in">Roles For Information Owner …</p>
+	</li><li><p style="margin-bottom: 0in">Policies, Procedures, Standards,
+	Baselines, Guidelines</p>
+	</li><li><p style="margin-bottom: 0in">Security Awareness Program</p></li></ol>
+<p style="margin-bottom: 0in">Map Safeguards to Risks</p>
+<p style="margin-bottom: 0in">What can be done? (risk mitigation)<br></p>
+<ol>
+	<li><p style="margin-bottom: 0in">Select the appropriate safeguards</p>
+	</li><li><p style="margin-bottom: 0in">Map safeguards and vulnerabilities
+	to all related threats</p>
+	</li><li><p style="margin-bottom: 0in">Determine if the safeguard will
+	mitigate the risk to an acceptable level</p>
+	<p style="margin-bottom: 0in"></p>
+	<p style="margin-bottom: 0in">Threat  ← Vulnerability ←
+	Safeguard</p></li></ol>
+<p style="margin-bottom: 0in">Calculate Gross Risk Reduction Benefit
+(how much will we save in the long run)</p>
+<ol>
+	<li><p style="margin-bottom: 0in">Calculate how much each threat is
+	going to cost us</p>
+	</li><li><p style="margin-bottom: 0in">Implement the safeguard, calculate
+	the new threat cost <font size="2">(overall cost of threats annual
+	with safeguard)</font></p>
+	</li><li><p style="margin-bottom: 0in">Cost from threat – cost with
+	safeguard in place = gross risk reduction benefit</p>
+	</li><li><p style="margin-bottom: 0in">Gross risk reduction benefit –
+	safeguard's annual average cost = Net Annual Benefit</p></li></ol>
+<p style="margin-bottom: 0in">Residual Risk</p>
+<ol>
+	<li><p style="margin-bottom: 0in">The chance of threats after
+	implementation of the safeguard</p>
+</li></ol>
+<ol start="2">
+	<li><p style="margin-bottom: 0in">wait... we didn't get it all???</p></li></ol>
+<p style="margin-bottom: 0in">Information Classification (top secret,
+secret, private, public...)</p>
+<p style="margin-bottom: 0in">Data Classifications</p>
+<ol>
+	<li><p style="margin-bottom: 0in">Intended to lower the cost of
+	overprotecting all data</p>
+	</li><li><p style="margin-bottom: 0in">Protecting mechanisms are
+	implemented where they are needed most, and less costly controls can
+	be put in place for non-critical information</p>
+	</li><li><p style="margin-bottom: 0in">Implement biometric system</p>
+	</li><li><p style="margin-bottom: 0in">Classified information</p>
+	</li><li><p style="margin-bottom: 0in">Implement username / password
+	system</p>
+</li></ol>
+<p style="margin-bottom: 0in">	</p>
+<p style="margin-bottom: 0in">Questions to ask to get started:</p>
+<ol>
+	<li><p style="margin-bottom: 0in">Is there an executive sponsor?</p>
+	</li><li><p style="margin-bottom: 0in">What are you trying to protect and
+	from what?</p>
+	</li><li><p style="margin-bottom: 0in">Are there are regulatory
+	requirements?</p>
+	</li><li><p style="margin-bottom: 0in">Has the business accepted
+	ownership responsibilities for the data?</p>
+	</li><li><p style="margin-bottom: 0in">Are adequate resources available
+	to do the initial project?</p></li></ol>
+<p style="margin-bottom: 0in">Risk Analysis</p>
+<ol>
+	<li><p style="margin-bottom: 0in">What are the major functional
+	areas of information (HR, R&amp;D, marketing, etc)?</p>
+	</li><li><p style="margin-bottom: 0in">What is the risk to data / process
+	associated with loss of CIA?</p>
+	</li><li><p style="margin-bottom: 0in">What is the level of risk to each
+	area compared to its classification requirement?</p>
+	</li><li><p style="margin-bottom: 0in">What is the impact to the business
+	if the information asset was lost for a specific period of time?</p></li></ol>
+<p style="margin-bottom: 0in">Establish Classifications</p>
+<ol>
+	<li><p style="margin-bottom: 0in">Decide how many classifications
+	are necessary</p><p style="margin-bottom: 0in">-Too many will cause confusion</p></li></ol>
+<ol start="2">
+	<li><p style="margin-bottom: 0in">Create the classification
+	definitions</p></li></ol>
+<p style="margin-bottom: 0in">Classification definitions</p>
+<ol>
+	<li><p style="margin-bottom: 0in">Easily identifiable
+	characteristics</p>
+	</li><li><p style="margin-bottom: 0in">Little or no overlap</p>
+	</li><li><p style="margin-bottom: 0in">Example → Public, Internal Use
+	Only, Company Confidential</p></li></ol>
+<p style="margin-bottom: 0in">Roles and Responsibilities –
+Information Owner</p>
+<ol>
+	<li><p style="margin-bottom: 0in">Must be from the business (Not IT)</p>
+	</li><li><p style="margin-bottom: 0in">Business executive or manager</p>
+	</li><li><p style="margin-bottom: 0in">Responsibilities include:</p>
+	<ol>
+		<li><p style="margin-bottom: 0in">Assign classifications</p>
+		</li><li><p style="margin-bottom: 0in">Ensure the measure matches the
+		classifications</p>
+		</li><li><p style="margin-bottom: 0in">Determine access criteria and
+		back up requirements</p>
+	</li></ol>
+</li></ol>
+<p style="margin-bottom: 0in">Information Custodian</p>
+<ol>
+	<li><p style="margin-bottom: 0in">Usually an IT person</p>
+	</li><li><p style="margin-bottom: 0in">Responsibilities include:</p>
+	<ol>
+		<li><p style="margin-bottom: 0in">Backup and recovery</p>
+		</li><li><p style="margin-bottom: 0in">Tune System to ensure
+		availability</p>
+		</li><li><p style="margin-bottom: 0in">Retain all info for the period
+		specified by the information owner</p></li></ol></li></ol>
+<p style="margin-bottom: 0in">Application Owner</p>
+<ol>
+	<li><p style="margin-bottom: 0in">Department manager responsible for
+	the business function served by the application</p>
+	</li><li><p style="margin-bottom: 0in">Responsibilities include:</p>
+	<ol>
+		<li><p style="margin-bottom: 0in">Establish who should get access
+		to which applications</p>
+		</li><li><p style="margin-bottom: 0in">When those users should have
+		access</p>
+		</li><li><p style="margin-bottom: 0in">Handle exception request</p></li></ol></li></ol>
+<p style="margin-bottom: 0in">User Manager</p>
+<ol>
+	<li><p style="margin-bottom: 0in">The immediate manager or
+	supervisor of an employee</p>
+	</li><li><p style="margin-bottom: 0in">Responsibilities include:</p>
+	<ol>
+		<li><p style="margin-bottom: 0in">Inform security of terminations
+		and transfers (privileges need to be changed or revoked)</p>
+		</li><li><p style="margin-bottom: 0in">Report security incidents</p>
+		</li><li><p style="margin-bottom: 0in">Distribute initial passwords</p></li></ol></li></ol>
+<p style="margin-bottom: 0in">Security Administrator</p>
+<ol>
+	<li><p style="margin-bottom: 0in">Has an administrator user Id ….</p></li></ol>
+<p style="margin-bottom: 0in">Homework</p>
+<ol>
+	<li><p style="margin-bottom: 0in">Due Sunday 2/5 by midnight</p>
+	</li><li><p style="margin-bottom: 0in">Policy Review</p>
+	<ol>
+		<li><p style="margin-bottom: 0in">Compare Chico States security
+		policy to another universities</p>
+	</li></ol>
+</li></ol>
+<ol start="3">
+	<li><p style="margin-bottom: 0in">automated risk assessment tools</p>
+	<ol>
+		<li><p style="margin-bottom: 0in">Create a “one pager”
+		detailing an automated risk assessment tool.</p>
+	</li></ol>
+</li></ol>

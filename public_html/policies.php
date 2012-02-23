@@ -16,7 +16,23 @@
 <h2 class="title"><a href="#" style="text-transform:none">getNote policies</a></h2>
 <div style="clear: both;">&nbsp;</div>
 <div class="entry">
+<br/><p> These following policies are in refernce to California State Policies, and California State University, Chico. Please find and review your state and school policies in regards to note sharing.
 
+<br/><p> Please also look under <a href="statepolicies.php">California State Policies</a> regarding note sharing.</p>
+<p> If you are a California State University, Chico student, please also review 
+<a href="http://www.csuchico.edu/sjd/policies.shtml">Student Conduct Code</a> 
+for all the student policies. In regards to 
+<a href="http://www.csuchico.edu/sjd/_assets/docs/policies/Title%20Five.pdf">Title V</a> 
+s 41301. Standards of Student Conduct part b number 14 states "Unauthorized recording, dissemination, or publication of academic presentations (including handwritten notes) for a commercial purpose"*.
+</p>
+<p>
+* From the <a href="statepolicies.php">California State Policies</a>
+(2) "Commercial purpose" means any purpose that has financial or
+economic gain as an objective.
+</p>
+<p>
+Thus <a href="http://www.getnote.org">getNote</a> is a free, add free service. This site does not allow for the selling of notes between users, as described in state codes.
+</p>
 <br/><p>
 getNote has every intention of being in compliance with the Academic Integrity policy of your school.  We are not, 
 however, liable for any action taken by your school against you the student for the use of this site.  We suggest to all our members 

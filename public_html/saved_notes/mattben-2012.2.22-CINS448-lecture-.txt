@@ -1,0 +1,184 @@
+
+	
+	
+	
+
+
+<p style="margin-bottom: 0in">2/22/12</p>
+<p style="margin-bottom: 0in">Day 14</p>
+<ol>
+	<li><p style="margin-bottom: 0in">Identifications</p>
+	</li><li><p style="margin-bottom: 0in">Authentication</p>
+	</li><li><p style="margin-bottom: 0in">Authorization</p>
+	<ol>
+		<li><p style="margin-bottom: 0in">Resource</p>
+	</li></ol>
+	</li><li><p style="margin-bottom: 0in">Accountability</p></li></ol>
+<p style="margin-bottom: 0in">Three methods of authentication are
+presenting something</p>
+<ol>
+	<li><p style="margin-bottom: 0in">What a user knows</p>
+	<ol>
+		<li><p style="margin-bottom: 0in">Password</p>
+	</li></ol>
+	</li><li><p style="margin-bottom: 0in">What a users has</p>
+	<ol>
+		<li><p style="margin-bottom: 0in">Synchronous token</p>
+		</li><li><p style="margin-bottom: 0in">Smart Cards</p>
+	</li></ol>
+	</li><li><p style="margin-bottom: 0in">What a user is</p>
+	<ol>
+		<li><p style="margin-bottom: 0in">Biometric device</p>
+		<ol>
+			<li><p style="margin-bottom: 0in">Analyzes a unique personal
+			attribute</p>
+			</li><li><p style="margin-bottom: 0in">Or unique behavior</p>
+		</li></ol>
+		</li><li><p style="margin-bottom: 0in"> 
+		</p>
+	</li></ol>
+</li></ol>
+<p style="margin-bottom: 0in">The way it works<br></p>
+<ol>
+	<li><p style="margin-bottom: 0in">Examines a unique physiological
+	trait</p>
+	</li><li><p style="margin-bottom: 0in">Three physical characteristics
+	that are entirely unique for each individual</p>
+	<ol>
+		<li><p style="margin-bottom: 0in">Fingerprint</p>
+		</li><li><p style="margin-bottom: 0in">Retina of the eye</p>
+		<ol>
+			<li><p style="margin-bottom: 0in">Blood vessel patterns inside the
+			eyeball</p>
+		</li></ol>
+		</li><li><p style="margin-bottom: 0in">Iris of the eye</p>
+		<ol>
+			<li><p style="margin-bottom: 0in">Random Patterson of granularity
+			in the colored portion of the eye</p>
+		</li></ol>
+	</li></ol>
+</li></ol>
+<p style="margin-bottom: 0in">Important elements of Biometric devices<br></p>
+<ol>
+	<li><p style="margin-bottom: 0in">Accuracy</p>
+	</li><li><p style="margin-bottom: 0in">Processing speed</p>
+	</li><li><p style="margin-bottom: 0in">User acceptability</p>
+</li></ol>
+<p style="margin-bottom: 0in">Accuracy<br></p>
+<ol>
+	<li><p style="margin-bottom: 0in">Must be able to separate authentic
+	users from impostors</p>
+	</li><li><p style="margin-bottom: 0in">Measurable factors:</p>
+	<ol>
+		<li><p style="margin-bottom: 0in">False reject rate – Type I
+		error</p>
+		</li><li><p style="margin-bottom: 0in">False accept rate – Type II
+		error</p>
+		<ol>
+			<li><p style="margin-bottom: 0in">Most important error</p>
+		</li></ol>
+		</li><li><p style="margin-bottom: 0in">Crossover error</p>
+		<ol>
+			<li><p style="margin-bottom: 0in">Total error</p>
+			</li><li><p style="margin-bottom: 0in">False acceptance + false
+			rejection</p>
+		</li></ol>
+	</li></ol>
+</li></ol>
+<p style="margin-bottom: 0in">Processing speed<br></p>
+<ol>
+	<li><p style="margin-bottom: 0in">How fast the accept or reject
+	decision is presented to the user</p>
+	</li><li><p style="margin-bottom: 0in">General ...</p>
+</li></ol>
+<p style="margin-bottom: 0in">User Acceptability<br></p>
+<ol>
+	<li><p style="margin-bottom: 0in">Users must be comfortable and
+	wiling to use the system</p>
+	</li><li><p style="margin-bottom: 0in">Convince ...</p>
+</li></ol>
+<p style="margin-bottom: 0in">One-factor vs Two-factor<br></p>
+<ol>
+	<li><p style="margin-bottom: 0in">Two factor requires to
+	authentication methods</p>
+	</li><li><p style="margin-bottom: 0in">Something you know and something
+	you have</p>
+	</li><li><p style="margin-bottom: 0in">Password (you know)</p>
+	</li><li><p style="margin-bottom: 0in">Fingerprint (you are)</p>
+	</li><li><p style="margin-bottom: 0in">Also know as “strong
+	authentication”</p>
+</li></ol>
+<p style="margin-bottom: 0in">Centralized and Decentralized Access
+Control Methodologies<br></p>
+<ol>
+	<li><p style="margin-bottom: 0in">Centralized</p>
+	<ol>
+		<li><p style="margin-bottom: 0in">RADIUS</p>
+		</li><li><p style="margin-bottom: 0in">TACACS</p>
+		</li><li><p style="margin-bottom: 0in">DIAMETER</p>
+	</li></ol>
+	</li><li><p style="margin-bottom: 0in">Decentralized</p>
+	<ol>
+		<li><p style="margin-bottom: 0in">SSO</p>
+		</li><li><p style="margin-bottom: 0in">Kerberos</p>
+	</li></ol>
+</li></ol>
+<p style="margin-bottom: 0in">Basic Steps of a AAA service<br></p>
+<p style="margin-bottom: 0in">Authentication, Authorization and
+Accounting</p>
+<ol>
+	<li><p style="margin-bottom: 0in">Id &amp; Password → NAS Server</p>
+	</li><li><p style="margin-bottom: 0in">Authentication Request →
+	Authentication server</p>
+	</li><li><p style="margin-bottom: 0in">Connection parameters,
+	Authentication, protocol info → NAS Server</p>
+</li></ol>
+<p style="margin-bottom: 0in">AAA Services – Table from book<br></p><p style="margin-bottom: 0in"><br></p>
+<p style="margin-bottom: 0in">DIAMETER (Two times as good as RADIUS)<br></p>
+<ol>
+	<li><p style="margin-bottom: 0in">Diameter provides an AAA
+	architecture for several services</p>
+	</li><li><p style="margin-bottom: 0in">Base Protocol</p>
+	<ol>
+		<li><p style="margin-bottom: 0in">Provides</p>
+		<ol>
+			<li><p style="margin-bottom: 0in">Secure Communication</p>
+			</li><li><p style="margin-bottom: 0in">feature discovery</p>
+			</li><li><p style="margin-bottom: 0in">version negotiation</p>
+			</li><li><p style="margin-bottom: 0in">The Extensions</p>
+		</li></ol>
+		</li><li><p style="margin-bottom: 0in">Allows various technologies to
+		use Diameter for authentication</p>
+	</li></ol>
+	</li><li><p style="margin-bottom: 0in">Single Sign On SSO</p>
+	<ol>
+		<li><p style="margin-bottom: 0in">Log on once to the enterprise and
+		then access all additional authorized network resources</p>
+		</li><li><p style="margin-bottom: 0in">Users only need to type user ID
+		and password once</p>
+		</li><li><p style="margin-bottom: 0in">Fewer passwords to remember,
+		therefore stronger passwords can be used</p>
+		</li><li><p style="margin-bottom: 0in">Single point to administer user
+		access</p>
+		</li><li><p style="margin-bottom: 0in">Once a user's ID and password are
+		compromised an intruder could have access to all of the resources
+		the user has access to</p>
+	</li></ol>
+</li></ol>
+<p style="margin-bottom: 0in">In Greek mythology, Kerberos was a
+three headed dog<br></p>
+<p style="margin-bottom: 0in">Kerberos</p>
+<ol>
+	<li><p style="margin-bottom: 0in">One of the best-tested
+	authentication protocols in use today</p>
+	</li><li><p style="margin-bottom: 0in">Created in the 1980s as part of
+	project athena at MIT</p>
+	</li><li><p style="margin-bottom: 0in">Just as the dog had three heads,
+	Kerberos incorporates three elements to guard a networks entrance</p>
+	<ol>
+		<li><p style="margin-bottom: 0in">authentication</p>
+		</li><li><p style="margin-bottom: 0in">accounting 
+		</p>
+		</li><li><p style="margin-bottom: 0in">auditing</p>
+	</li></ol>
+</li></ol>

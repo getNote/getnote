@@ -1,0 +1,172 @@
+
+	
+	
+	
+
+
+<p style="margin-bottom: 0in">2/3/12</p>
+<p style="margin-bottom: 0in">Day 6</p>
+<p style="margin-bottom: 0in">Review:</p>
+<ol>
+	<li><p style="margin-bottom: 0in">Roles: Security Administrator,
+	Security Analyst, Change Control Analyst, End User, Security
+	Officer, Senior Management</p>
+	</li><li><p style="margin-bottom: 0in">Outline a security plans which
+	includes:</p>
+	<ol>
+		<li><p style="margin-bottom: 0in">Policies, procedures, standards,
+		baselines</p>
+	</li></ol>
+	</li><li><p style="margin-bottom: 0in">Social Engineering defined</p></li></ol>
+<p style="margin-bottom: 0in">Attacks Phases</p>
+<ol>
+	<li><p style="margin-bottom: 0in">Intelligence gathering</p>
+	</li><li><p style="margin-bottom: 0in">Target selection</p>
+	</li><li><p style="margin-bottom: 0in">The Attack</p></li></ol>
+<p style="margin-bottom: 0in">Intelligence gathering</p>
+<ol>
+	<li><p style="margin-bottom: 0in">Impersonate an employee, vendor,
+	or law enforcement.</p>
+	</li><li><p style="margin-bottom: 0in">Company web site</p>
+	<ol>
+		<li><p style="margin-bottom: 0in">Phone and email addresses</p>
+		</li><li><p style="margin-bottom: 0in">Branch office division locations</p>
+		</li><li><p style="margin-bottom: 0in">Origination charts</p>
+	</li></ol>
+	</li><li><p style="margin-bottom: 0in">dumpster diving can reveal
+	invoices, correspondence...</p></li></ol>
+<p style="margin-bottom: 0in">Target Selection</p>
+<ol>
+	<li><p style="margin-bottom: 0in">help desk</p>
+	<ol>
+		<li><p style="margin-bottom: 0in">can change passwords, create
+		accounts, reactivate accounts...</p>
+		</li><li><p style="margin-bottom: 0in">most vulnerable help desks are
+		once that have been contracted out to another company</p>
+	</li></ol>
+	</li><li><p style="margin-bottom: 0in">administrative assistants</p>
+	<ol>
+		<li><p style="margin-bottom: 0in">privy to large amounts of
+		sensitive data</p>
+		</li><li><p style="margin-bottom: 0in">know their executive manager's
+		password</p></li></ol></li></ol>
+<p style="margin-bottom: 0in">Three types of Attacks</p>
+<ol>
+	<li><p style="margin-bottom: 0in">Attacks that appeal to the vanity
+	or ego of the victim</p>
+	<ol>
+		<li><p style="margin-bottom: 0in">pick victims that feel
+		under-appreciated and/or in a position that is beneath their
+		talents</p>
+	</li></ol>
+	</li><li><p style="margin-bottom: 0in">attacks that take advantage of the
+	feeling of sympathy or empathy</p>
+	<ol>
+		<li><p style="margin-bottom: 0in">fellow employee / contractor /
+		vendor who is in a “real jam” and needs assistance to get some
+		tasks done immediately</p>
+		</li><li><p style="margin-bottom: 0in">cannot remember user-name or
+		password, or locked himself out</p>
+		</li><li><p style="margin-bottom: 0in">urgency used to circumvent the
+		normal, required procedures</p>
+	</li></ol>
+	</li><li><p style="margin-bottom: 0in">Loyalty is gained through hard
+	work and perseverance, but gained faster through intimidation</p>
+	<ol>
+		<li><p style="margin-bottom: 0in">attacks that are based on
+		intimidation</p>
+		</li><li><p style="margin-bottom: 0in">pretends to be an authority
+		figure</p>
+		</li><li><p style="margin-bottom: 0in">if pretending to be from law
+		enforcement then the scenario usually involves some “hush-hush”
+		investigation or national security issue and employee must not tell
+		anyone</p></li></ol></li></ol>
+<p style="margin-bottom: 0in">Mitigation the risk problem</p>
+<ol>
+	<li><p style="margin-bottom: 0in">alarmingly high success rate,
+	difficult to trace, difficult to identify</p>
+	</li><li><p style="margin-bottom: 0in">may never know if being attacked</p></li></ol>
+<p style="margin-bottom: 0in">Solution</p>
+<ol>
+	<li><p style="margin-bottom: 0in">Educate and train staff on how to
+	recognize potential attacks</p>
+	</li><li><p style="margin-bottom: 0in">Concentrate on the administrative
+	portion (policies, etc)</p>
+	</li><li><p style="margin-bottom: 0in">Effective user awareness program</p>
+	</li><li><p style="margin-bottom: 0in">Hire consultants to perform
+	penetration tests</p>
+	</li><li><p style="margin-bottom: 0in">Technological protection</p>
+	<ol>
+		<li><p style="margin-bottom: 0in">Trace calls / have caller id</p>
+		</li><li><p style="margin-bottom: 0in">Use biometrics or smart cards</p></li></ol></li></ol>
+<p style="margin-bottom: 0in">NEXT Domain #6</p>
+<p style="margin-bottom: 0in">Security Architecture and Design</p>
+<ol>
+	<li><p style="margin-bottom: 0in">identify the security issues and
+	controls associated with architectures and designs</p>
+	</li><li><p style="margin-bottom: 0in">describe the principles of common
+	computer and network organization, architectures, and designs</p>
+	</li><li><p style="margin-bottom: 0in">define security models in terms of
+	confidentiality, integrity, and information flow</p>
+	</li><li><p style="margin-bottom: 0in">identify the steps of how to crash
+	blackboard learn (LOL j/k)</p></li></ol>
+<p style="margin-bottom: 0in">Designing a new Information system</p>
+<ol>
+	<li><p style="margin-bottom: 0in">Security needs to be considered a
+	requirement from the beginning</p>
+	</li><li><p style="margin-bottom: 0in">needs to be though of as one of
+	the features of the system , not an after though</p></li></ol>
+<p style="margin-bottom: 0in">What are the pieces of the system?</p>
+<ol>
+	<li><p style="margin-bottom: 0in">Application program layer</p>
+	</li><li><p style="margin-bottom: 0in">utilities</p>
+	</li><li><p style="margin-bottom: 0in">operation system</p>
+	</li><li><p style="margin-bottom: 0in">computer hardware</p>
+	</li><li><p style="margin-bottom: 0in">networking layer</p></li></ol>
+<p style="margin-bottom: 0in">Layering</p>
+<ol>
+	<li><p style="margin-bottom: 0in">Lower layers provide primitive
+	functions while the higher layers use the primitive functions to
+	provide more complex functions</p>
+	</li><li><p style="margin-bottom: 0in">examples</p>
+	<ol>
+		<li><p style="margin-bottom: 0in">first layer OS</p>
+		</li><li><p style="margin-bottom: 0in">Applications run on top of OS</p></li></ol></li></ol>
+<p style="margin-bottom: 0in">Security &amp; Layering</p>
+<ol>
+	<li><p style="margin-bottom: 0in">Constrains functions within each
+	layer, to that layer</p>
+	</li><li><p style="margin-bottom: 0in">Can't just have a single security
+	layer</p>
+	<ol>
+		<li><p style="margin-bottom: 0in">each layer has its own set of
+		objects requiring secure management</p>
+	</li></ol>
+	</li><li><p style="margin-bottom: 0in">each layer should provide security
+	features</p>
+	</li><li><p style="margin-bottom: 0in">security primitives should be
+	placed in the lowest level possible</p>
+	<ol>
+		<li><p style="margin-bottom: 0in">if you gained access to the so
+		level then you could change security measures in the application
+		level</p></li></ol></li></ol>
+<p style="margin-bottom: 0in">Homework</p>
+<p style="margin-bottom: 0in">Due Sunday 2/5 by midnight</p>
+<ol>
+	<li><p style="margin-bottom: 0in">Policy review</p>
+	<ol>
+		<li><p style="margin-bottom: 0in">Compare Chico stats security
+		policy to another universities</p>
+	</li></ol>
+	</li><li><p style="margin-bottom: 0in">automated risk assessment tools</p>
+	<ol>
+		<li><p style="margin-bottom: 0in">create a one pager detailing an
+		automated risk assessment too</p>
+	</li></ol>
+</li></ol>
+<p style="margin-bottom: 0in"><br>
+</p>
+<p style="margin-bottom: 0in"><br>
+</p>
+<p style="margin-bottom: 0in"><br>
+</p>

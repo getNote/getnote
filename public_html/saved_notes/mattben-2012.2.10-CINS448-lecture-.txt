@@ -1,0 +1,148 @@
+
+	
+	
+	
+
+
+<p style="margin-bottom: 0in">2/10/12</p>
+<p style="margin-bottom: 0in">Day 9</p>
+<p style="margin-bottom: 0in">Def Con – Pwnd by owner</p>
+<ol>
+	<li><p style="margin-bottom: 0in">DYN DNS</p>
+	</li><li><p style="margin-bottom: 0in">SSH</p>
+	</li><li><p style="margin-bottom: 0in">VNC</p></li></ol>
+<p style="margin-bottom: 0in">Last time...</p>
+<ol>
+	<li><p style="margin-bottom: 0in">Types of memory</p>
+	<ol>
+		<li><p style="margin-bottom: 0in">Random Access Memory (RAM)</p>
+		</li><li><p style="margin-bottom: 0in">Read-Only Memory (ROM)</p>
+		<ol>
+			<li><p style="margin-bottom: 0in">CMOS RAM – was used to store
+			BIOS settings</p>
+		</li></ol>
+		</li><li><p style="margin-bottom: 0in">Flash Memory</p>
+	</li></ol>
+	</li><li><p style="margin-bottom: 0in">Paging</p>
+	</li><li><p style="margin-bottom: 0in">Virtual Memory</p></li></ol>
+<p style="margin-bottom: 0in">Hardware Interrupt</p>
+<ol>
+	<li><p style="margin-bottom: 0in">used to signal the CPU that the
+	data is now available</p></li></ol>
+<p style="margin-bottom: 0in">Interrupt Vulnerability</p>
+<p style="margin-bottom: 0in">Process gains interrupts privileges</p>
+<ol>
+	<li><p style="margin-bottom: 0in">If a second interrupt arrives that
+	has higher priority than the current interrupt then execution is
+	transferred to the new interrupt.</p>
+	</li><li><p style="margin-bottom: 0in">Once the new interrupt has
+	completed, then the transfer back to the initial interrupt mush be
+	done securely</p>
+	</li><li><p style="margin-bottom: 0in">If its not, the process that was
+	interrupted may gain supervisor status of an operating system call</p></li></ol>
+<p style="margin-bottom: 0in">Redirection of interrupt 
+</p>
+<ol>
+	<li><p style="margin-bottom: 0in">Changing the address of the
+	interrupt handler could redirect the OS to execute the malicious
+	code (virus)</p>
+	</li><li><p style="margin-bottom: 0in">hard to detect because the
+	original interrupt handler is not changed.</p>
+	</li><li><p style="margin-bottom: 0in">Book – A guide to kernel
+	exploitation – attacking the core by Enrico Perta</p></li></ol>
+<p style="margin-bottom: 0in">What could possible go wrong?</p>
+<ol>
+	<li><p style="margin-bottom: 0in">An application could attempt to
+	make a direct call to a piece of hardware instead of using the
+	proper system calls through the OS</p>
+	</li><li><p style="margin-bottom: 0in">A program could attempt to read
+	data outside of its approved memory space</p>
+	</li><li><p style="margin-bottom: 0in">A piece of software could not
+	properly release resources after use</p></li></ol>
+<p style="margin-bottom: 0in">Trusted Computing Base TCB</p>
+<ol>
+	<li><p style="margin-bottom: 0in">What needs to be trusted?</p>
+	<ol>
+		<li><p style="margin-bottom: 0in">Process activation</p>
+		</li><li><p style="margin-bottom: 0in">Execution domain switching</p>
+		</li><li><p style="margin-bottom: 0in">Memory protections</p>
+		</li><li><p style="margin-bottom: 0in">I/O operations</p></li></ol></li></ol>
+<p style="margin-bottom: 0in">Enterprise Architecture</p>
+<ol>
+	<li><p style="margin-bottom: 0in">“Systematically derived
+	structural descriptions (models, diagrams...) of the mode of
+	operation for an enterprise”</p></li></ol>
+<p style="margin-bottom: 0in">Provides:</p>
+<ol>
+	<li><p style="margin-bottom: 0in">What the enterprise does</p>
+	</li><li><p style="margin-bottom: 0in">When, Where, how and why it does
+	it</p>
+	</li><li><p style="margin-bottom: 0in">What it uses to do it</p></li></ol>
+<p style="margin-bottom: 0in">Zachman Framework</p>
+<ol>
+	<li><p style="margin-bottom: 0in">John Zachman, in 1980's</p>
+	</li><li><p style="margin-bottom: 0in">Specifications for defining and
+	capturing an architecture</p>
+	<ol>
+		<li><p style="margin-bottom: 0in">how the entity operates</p>
+		</li><li><p style="margin-bottom: 0in">what the entity uses to operate</p>
+		</li><li><p style="margin-bottom: 0in">where the entity operates</p>
+		</li><li><p style="margin-bottom: 0in">who operates the entity</p>
+		</li><li><p style="margin-bottom: 0in">when entity operations occur</p>
+		</li><li><p style="margin-bottom: 0in">why the entity operates</p></li></ol></li></ol>
+<p style="margin-bottom: 0in">Security Modes</p>
+<p style="margin-bottom: 0in">Goals:</p>
+<ol>
+	<li><p style="margin-bottom: 0in">Prevent the unauthorized
+	disclosure of information</p></li></ol>
+<p style="margin-bottom: 0in">Military Security Policy</p>
+<ol>
+	<li><p style="margin-bottom: 0in">Used by U.S. Department of Defense</p>
+	</li><li><p style="margin-bottom: 0in">Basic idea</p>
+	<ol>
+		<li><p style="margin-bottom: 0in">Information (object) possesses a
+		classification 
+		</p>
+		</li><li><p style="margin-bottom: 0in">People (subject) possess a
+		clearance</p>
+		</li><li><p style="margin-bottom: 0in">Clearance compared to
+		classification to determine access</p></li></ol></li></ol>
+<p style="margin-bottom: 0in">Classification Levels</p>
+<ol>
+	<li><p style="margin-bottom: 0in">Top Secret</p>
+	</li><li><p style="margin-bottom: 0in">Secret</p>
+	</li><li><p style="margin-bottom: 0in">Confidential</p>
+	</li><li><p style="margin-bottom: 0in">Unclassified</p></li></ol>
+<p style="margin-bottom: 0in">Bell-LaPadula Model</p>
+<ol>
+	<li><p style="margin-bottom: 0in">Models multilevel</p></li></ol>
+<p style="margin-bottom: 0in">Is a state machine Model</p>
+<ol>
+	<li><p style="margin-bottom: 0in">Important aspects of the model</p>
+	</li><li><p style="margin-bottom: 0in">state</p>
+	</li><li><p style="margin-bottom: 0in">state transitions</p></li></ol>
+<p style="margin-bottom: 0in">State</p>
+<ol>
+	<li><p style="margin-bottom: 0in">A representation of the system at
+	one moment in time</p>
+	</li><li><p style="margin-bottom: 0in">state variables</p>
+	<ol>
+		<li><p style="margin-bottom: 0in">represent the subjects and
+		objects of the system 
+		</p>
+		</li><li><p style="margin-bottom: 0in">Value of variables that must be
+		maintained to ensure a secure state</p>
+	</li></ol>
+</li></ol>
+<p style="margin-bottom: 0in">State Transitions</p>
+<ol>
+	<li><p style="margin-bottom: 0in">defines the next state depending
+	on the present state and input</p>
+	</li><li><p style="margin-bottom: 0in">All transitions should lead to
+	only defined states</p></li></ol>
+<p style="margin-bottom: 0in">Secure Machine</p>
+<ol>
+	<li><p style="margin-bottom: 0in">if all state transitions are
+	secure and initial state is secure then every subsequent state will
+	also be secure, regardless of the inputs</p>
+</li></ol>

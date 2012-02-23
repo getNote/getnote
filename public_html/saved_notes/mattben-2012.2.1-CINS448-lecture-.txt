@@ -1,0 +1,227 @@
+
+	
+	
+	
+
+
+<p style="margin-bottom: 0in">2/1/12</p>
+<p style="margin-bottom: 0in">Day 5</p>
+<p style="margin-bottom: 0in">Thanks to David Zeichick I now know how
+to:</p>
+<ol>
+	<li><p style="margin-bottom: 0in">Map safeguards to risks</p>
+	</li><li><p style="margin-bottom: 0in">Calculate the Gross Risk Reduction
+	Benefit</p>
+	</li><li><p style="margin-bottom: 0in">Calculate the Net Annual Benefit</p>
+	</li><li><p style="margin-bottom: 0in">Identify who should create
+	classifications</p>
+	</li><li><p style="margin-bottom: 0in">Describe the following roles:
+	Information Owner, Information Custodian, Applications Owner,...</p></li></ol>
+<p style="margin-bottom: 0in">What's on the agenda today?</p>
+<ol>
+	<li><p style="margin-bottom: 0in">More roles: Security
+	Administrator, Security Analyst, Change Control Analyst, End User,
+	Security Officer, Senior Management</p>
+	</li><li><p style="margin-bottom: 0in">Outline a security plan,
+	including: Policies, procedures, standards, baselines</p>
+	</li><li><p style="margin-bottom: 0in">Social Engineering – defined</p></li></ol>
+<p style="margin-bottom: 0in">Security Administrator</p>
+<ol>
+	<li><p style="margin-bottom: 0in">Has an administrator user ID (the
+	keys to the kingdom)</p>
+	</li><li><p style="margin-bottom: 0in">Responsibilities include:</p>
+	<ol>
+		<li><p style="margin-bottom: 0in">Administer access rights</p>
+		</li><li><p style="margin-bottom: 0in">Create and remove user IDs (told
+		by Users Manager)</p>
+		</li><li><p style="margin-bottom: 0in">Ensure access requests are
+		consistent with current policies</p></li></ol></li></ol>
+<p style="margin-bottom: 0in">Security Analyst</p>
+<ol>
+	<li><p style="margin-bottom: 0in">Responsible for determining the
+	data security strategies, procedures, and guidelines</p>
+	</li><li><p style="margin-bottom: 0in">Provide data security design
+	input, consulting, and review</p></li></ol>
+<p style="margin-bottom: 0in">Change Control Analyst</p>
+<ol>
+	<li><p style="margin-bottom: 0in">Analyzes requested changes to the
+	IT infrastructure and determines the impact on all applications,
+	databases, data-related tools, etc.</p>
+	</li><li><p style="margin-bottom: 0in">ITEL certified</p></li></ol>
+<p style="margin-bottom: 0in">Change Control Analyst</p>
+<ol>
+	<li><p style="margin-bottom: 0in">What is ITIL?</p>
+	<ol>
+		<li><p style="margin-bottom: 0in">ITIL is the most widely accepted
+		approach to IT service management in the world. ITIL provides a
+		cohesive set of best practice, drawn from the public and private
+		sectors internationally.</p></li></ol></li></ol>
+<p style="margin-bottom: 0in">End User</p>
+<ol>
+	<li><p style="margin-bottom: 0in">Can be an employee, contractor, or
+	vendor</p>
+	</li><li><p style="margin-bottom: 0in">Responsibilities include:</p>
+	<ol>
+		<li><p style="margin-bottom: 0in">Maintain confidentiality of
+		passwords</p>
+		</li><li><p style="margin-bottom: 0in">Ensure security of company's
+		information</p>
+		</li><li><p style="margin-bottom: 0in">Use information resources for
+		approved activities only</p>
+		</li><li><p style="margin-bottom: 0in">Promptly report security
+		incidents to management</p></li></ol></li></ol>
+<p style="margin-bottom: 0in">Security Officer</p>
+<ol>
+	<li><p style="margin-bottom: 0in">Historically from IT</p>
+	</li><li><p style="margin-bottom: 0in">They have a technical background</p>
+	</li><li><p style="margin-bottom: 0in">This provided the “how-to” but
+	not the “why-for”</p></li></ol>
+<p style="margin-bottom: 0in">Senior Management</p>
+<ol>
+	<li><p style="margin-bottom: 0in">Provides “why-for” through
+	creation of policies</p></li></ol>
+<p style="margin-bottom: 0in">When taking office, Senior Management
+assumes:</p>
+<ol>
+	<li><p style="margin-bottom: 0in">Duty of loyalty</p>
+	<ol>
+		<li><p style="margin-bottom: 0in">Interests of the enterprise must
+		prevail over any personal or individual interests</p>
+	</li></ol>
+	</li><li><p style="margin-bottom: 0in">Duty of Care</p>
+	<ol>
+		<li><p style="margin-bottom: 0in">Monitor and direct the activities
+		of corporate management and all employees</p>
+	</li></ol>
+	</li><li><p style="margin-bottom: 0in">Promise to protect shareholder
+	interests</p></li></ol>
+<p style="margin-bottom: 0in">A Security Program</p>
+<ol>
+	<li><p style="margin-bottom: 0in">Polities,</p>
+	</li><li><p style="margin-bottom: 0in">Procedures</p>
+	</li><li><p style="margin-bottom: 0in">Standards</p>
+	</li><li><p style="margin-bottom: 0in">baselines</p></li></ol>
+<p style="margin-bottom: 0in">Objectives of a security program</p>
+<ol>
+	<li><p style="margin-bottom: 0in">state and clarify goals</p>
+	</li><li><p style="margin-bottom: 0in">define duties, responsibilities,
+	and authority</p>
+	</li><li><p style="margin-bottom: 0in">Formalize duties</p>
+	<ol>
+		<li><p style="margin-bottom: 0in">separation of duties</p>
+		</li><li><p style="margin-bottom: 0in">rotation of assignments</p>
+	</li></ol>
+	</li><li><p style="margin-bottom: 0in">establish standards</p>
+	</li><li><p style="margin-bottom: 0in">educate users</p></li></ol>
+<p style="margin-bottom: 0in">Show due diligence in establishing an
+effective security program</p>
+<ol>
+	<li><p style="margin-bottom: 0in">Establish polices, standards,
+	baselines and procedures</p>
+	</li><li><p style="margin-bottom: 0in">Communicate the polices to all
+	employees</p>
+	</li><li><p style="margin-bottom: 0in">Appoint a high level manager to
+	oversee compliance</p>
+	</li><li><p style="margin-bottom: 0in">Ensure compliance policies are
+	carried out</p></li></ol>
+<p style="margin-bottom: 0in">Failure to implement controls can lead
+to:</p>
+<ol>
+	<li><p style="margin-bottom: 0in">Fines</p>
+	</li><li><p style="margin-bottom: 0in">Loss of customer confidence</p>
+	</li><li><p style="margin-bottom: 0in">Loss of competitive advantage</p>
+	</li><li><p style="margin-bottom: 0in">go to jail</p></li></ol>
+<p style="margin-bottom: 0in">Homework</p>
+<ol>
+	<li><p style="margin-bottom: 0in">Look at Chico State Policies
+	<a href="http://www.csuchico.edu/ires">www.csuchico.edu/ires</a>
+	Compared to another University</p>
+	</li><li><p style="margin-bottom: 0in">Post a article</p>
+	</li><li><p style="margin-bottom: 0in">Write a one pager on a security
+	tool</p>
+	</li><li><p style="margin-bottom: 0in">Take part 1 quiz</p></li></ol>
+<p style="margin-bottom: 0in">A Security Program</p>
+<p style="margin-bottom: 0in">Policy</p>
+<ol>
+	<li><p style="margin-bottom: 0in">A high level statement of
+	enterprise beliefs, goals, and objectives and the general means for
+	their attainment</p>
+	</li><li><p style="margin-bottom: 0in">Senior management is directly
+	involved its creation</p>
+	</li><li><p style="margin-bottom: 0in">does not include list of
+	technologies to use</p>
+	</li><li><p style="margin-bottom: 0in">it does not delve into specifics
+	(high level not low level)</p>
+	</li><li><p style="margin-bottom: 0in">Establish an Information Security
+	Policy</p>
+	<ol>
+		<li><p style="margin-bottom: 0in">All information, regardless of
+		the form of format, that is created or used … (example)</p></li></ol></li></ol>
+<p style="margin-bottom: 0in">Procedures</p>
+<ol>
+	<li><p style="margin-bottom: 0in">Spell out the step-by-step process
+	of how the policy will actually be implemented in the environment</p>
+	</li><li><p style="margin-bottom: 0in">Example:</p>
+	<ol>
+		<li><p style="margin-bottom: 0in">“All users of McAfee anti-virus
+		software will have anti-virus signature files ...”</p></li></ol></li></ol>
+<p style="margin-bottom: 0in">Standards</p>
+<ol>
+	<li><p style="margin-bottom: 0in">A specific product of mechanism
+	that is selected for universal use</p>
+	</li><li><p style="margin-bottom: 0in">Example:</p>
+	<ol>
+		<li><p style="margin-bottom: 0in">“Custodians of information
+		processing system must use McAfee.. “</p></li></ol></li></ol>
+<p style="margin-bottom: 0in">Baseline</p>
+<ol>
+	<li><p style="margin-bottom: 0in">How to implement a security
+	package to ensure that it is done in a consistent level of security
+	through out the organization</p>
+	</li><li><p style="margin-bottom: 0in">Example”</p>
+	<ol>
+		<li><p style="margin-bottom: 0in">“The values to set the
+		parameters in the McAfee anti-virus software will be ...”</p></li></ol></li></ol>
+<p style="margin-bottom: 0in">Social Engineering</p>
+<p style="margin-bottom: 0in">Defined</p>
+<ol>
+	<li><p style="margin-bottom: 0in">“The social engineer employs the
+	same persuasive techniques the rest of us use every day. We take on
+	roles. We try to build credibility. We call in reciprocal
+	obligations. But the social engineer applies these techniques in a
+	manipulations, deceptive, highly unethical manner, often to
+	devastating effect.”</p>
+	<ol>
+		<li><p style="margin-bottom: 0in">from Social Psychologist Dr. Brad
+		…</p></li></ol></li></ol>
+<p style="margin-bottom: 0in">Motivation</p>
+<ol>
+	<li><p style="margin-bottom: 0in">Statistics show that the threat
+	from insiders ranges from 65 – 90%</p>
+	</li><li><p style="margin-bottom: 0in">Employees, whether intentionally
+	or accidentally, may allow some from of harm to the system</p>
+	</li><li><p style="margin-bottom: 0in">The employee, not the
+	software/hardware, is often times the weakest link</p></li></ol>
+<p style="margin-bottom: 0in">Why it works</p>
+<ol>
+	<li><p style="margin-bottom: 0in">Human nature</p>
+	</li><li><p style="margin-bottom: 0in">For the most part people are
+	trusting and cooperative</p>
+	</li><li><p style="margin-bottom: 0in">Studies have show that when people
+	are put in the right situation they can be influenced by a skilled
+	person to behave in a certain way that they normally wouldn't behave
+	in under normal circumstances</p>
+	</li><li><p style="margin-bottom: 0in">People in authority easily
+	intimidate people</p>
+	</li><li><p style="margin-bottom: 0in">Business Environment</p>
+	</li><li><p style="margin-bottom: 0in">it is not uncommon to have never
+	met the people we deal with on a regular basis</p>
+	<ol>
+		<li><p style="margin-bottom: 0in">mergers and acquisitions</p>
+		</li><li><p style="margin-bottom: 0in">rapid advances in technology</p>
+	</li></ol>
+	</li><li><p style="margin-bottom: 0in">proliferation of wide area
+	networking</p>
+	</li><li><p style="margin-bottom: 0in">businesses have become more
+	service oriented than ever before (internally and externally)</p>
+</li></ol>

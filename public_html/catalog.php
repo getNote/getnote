@@ -18,17 +18,21 @@
 <h2 class="title"><a href="#">class catalog</a></h2>
 <div style="clear: both;">&nbsp;</div>
 <div class="entry">
-<h3>Computer Science:</h3>
+<table>
+<tr><td><h3>No matching class below?</h3></td><td width='10'> &nbsp; </td><td><a href="add_class.php">Add it here</a></td></tr>
+</table>
+<br/>
+<br/>
 <ul>
 
 <?php
-
 	db_open();
 	$result = mysql_query("SELECT * FROM class WHERE blocked='0'");
 	while($row = mysql_fetch_array($result)) {
-		print "<li>$row[0] - <a href='notes_retrieval.php?cl=$row[0]'>$row[1]</a></i>";
+		print "<li>$row[0] - $row[2] - <a href='notes_retrieval.php?cl=$row[0]'>$row[1]</a></i>";
 	}
 	db_close();
 	include_once('footer.php');
 	
 ?>				
+</ul>
