@@ -1,0 +1,41 @@
+<font color="#000000" size="3" face="Times New Roman">
+
+</font><p style="margin: 0in 0in 0pt;" class="MsoNormal"><font size="3"><font color="#000000"><font face="Calibri">2/24/2012<?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" /><o:p></o:p></font></font></font></p><font color="#000000" size="3" face="Times New Roman">
+
+</font><p style="margin: 0in 0in 0pt;" class="MsoNormal"><o:p><font color="#000000" size="3" face="Calibri">&nbsp;</font></o:p></p><font color="#000000" size="3" face="Times New Roman">
+
+</font><p style="margin: 0in 0in 0pt;" class="MsoNormal"><font size="3"><font color="#000000"><font face="Calibri">Lecture
+Notes – CINS 448<o:p></o:p></font></font></font></p><font color="#000000" size="3" face="Times New Roman">
+
+</font><p style="margin: 0in 0in 0pt;" class="MsoNormal"><o:p><font color="#000000" size="3" face="Calibri">&nbsp;</font></o:p></p><font color="#000000" size="3" face="Times New Roman">
+
+</font><p style="margin: 0in 0in 0pt 0.5in; text-indent: -0.25in; mso-add-space: auto; mso-list: l0 level1 lfo1;" class="MsoListParagraphCxSpFirst"><font color="#000000"><span style="font-family: Symbol; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol;"><span style="mso-list: Ignore;"><font size="3">·</font><span style='font: 7pt/normal "Times New Roman"; font-size-adjust: none; font-stretch: normal;'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><font face="Calibri"><font size="3">Basic Requirements<o:p></o:p></font></font></font></p><font color="#000000" size="3" face="Times New Roman">
+
+</font><p style="margin: 0in 0in 0pt 1in; text-indent: -0.25in; mso-add-space: auto; mso-list: l0 level2 lfo1;" class="MsoListParagraphCxSpMiddle"><font color="#000000"><span style='font-family: "Courier New"; mso-fareast-font-family: "Courier New";'><span style="mso-list: Ignore;"><font size="3">o</font><span style='font: 7pt/normal "Times New Roman"; font-size-adjust: none; font-stretch: normal;'>&nbsp;&nbsp;
+</span></span></span><font face="Calibri"><font size="3">Security<o:p></o:p></font></font></font></p><font color="#000000" size="3" face="Times New Roman">
+
+</font><p style="margin: 0in 0in 0pt 1.5in; text-indent: -0.25in; mso-add-space: auto; mso-list: l0 level3 lfo1;" class="MsoListParagraphCxSpMiddle"><font color="#000000"><span style="font-family: Wingdings; mso-fareast-font-family: Wingdings; mso-bidi-font-family: Wingdings;"><span style="mso-list: Ignore;"><font size="3">§</font><span style='font: 7pt/normal "Times New Roman"; font-size-adjust: none; font-stretch: normal;'>&nbsp;
+</span></span></span><font face="Calibri"><font size="3">Network eavesdropper should not be able to
+obtain info to impersonate user<o:p></o:p></font></font></font></p><font color="#000000" size="3" face="Times New Roman">
+
+</font><p style="margin: 0in 0in 0pt 1in; text-indent: -0.25in; mso-add-space: auto; mso-list: l0 level2 lfo1;" class="MsoListParagraphCxSpMiddle"><font color="#000000"><span style='font-family: "Courier New"; mso-fareast-font-family: "Courier New";'><span style="mso-list: Ignore;"><font size="3">o</font><span style='font: 7pt/normal "Times New Roman"; font-size-adjust: none; font-stretch: normal;'>&nbsp;&nbsp;
+</span></span></span><font face="Calibri"><font size="3">Reliability<o:p></o:p></font></font></font></p><font color="#000000" size="3" face="Times New Roman">
+
+</font><p style="margin: 0in 0in 0pt 1.5in; text-indent: -0.25in; mso-add-space: auto; mso-list: l0 level3 lfo1;" class="MsoListParagraphCxSpMiddle"><font color="#000000"><span style="font-family: Wingdings; mso-fareast-font-family: Wingdings; mso-bidi-font-family: Wingdings;"><span style="mso-list: Ignore;"><font size="3">§</font><span style='font: 7pt/normal "Times New Roman"; font-size-adjust: none; font-stretch: normal;'>&nbsp;
+</span></span></span><font face="Calibri"><font size="3">Must be available when needed<o:p></o:p></font></font></font></p><font color="#000000" size="3" face="Times New Roman">
+
+</font><p style="margin: 0in 0in 0pt 1in; text-indent: -0.25in; mso-add-space: auto; mso-list: l0 level2 lfo1;" class="MsoListParagraphCxSpMiddle"><font color="#000000"><span style='font-family: "Courier New"; mso-fareast-font-family: "Courier New";'><span style="mso-list: Ignore;"><font size="3">o</font><span style='font: 7pt/normal "Times New Roman"; font-size-adjust: none; font-stretch: normal;'>&nbsp;&nbsp;
+</span></span></span><font face="Calibri"><font size="3">Transparency<o:p></o:p></font></font></font></p><font color="#000000" size="3" face="Times New Roman">
+
+</font><p style="margin: 0in 0in 0pt 1in; text-indent: -0.25in; mso-add-space: auto; mso-list: l0 level2 lfo1;" class="MsoListParagraphCxSpMiddle"><font color="#000000"><span style='font-family: "Courier New"; mso-fareast-font-family: "Courier New";'><span style="mso-list: Ignore;"><font size="3">o</font><span style='font: 7pt/normal "Times New Roman"; font-size-adjust: none; font-stretch: normal;'>&nbsp;&nbsp;
+</span></span></span><font face="Calibri"><font size="3">Scalability<o:p></o:p></font></font></font></p><font color="#000000" size="3" face="Times New Roman">
+
+</font><p style="margin: 0in 0in 0pt 0.5in; text-indent: -0.25in; mso-add-space: auto; mso-list: l0 level1 lfo1;" class="MsoListParagraphCxSpMiddle"><font color="#000000"><span style="font-family: Symbol; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol;"><span style="mso-list: Ignore;"><font size="3">·</font><span style='font: 7pt/normal "Times New Roman"; font-size-adjust: none; font-stretch: normal;'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><font face="Calibri"><font size="3">Sharing a secret: how Kerberos works handout<o:p></o:p></font></font></font></p><font color="#000000" size="3" face="Times New Roman">
+
+</font><p style="margin: 0in 0in 0pt 1in; text-indent: -0.25in; mso-add-space: auto; mso-list: l0 level2 lfo1;" class="MsoListParagraphCxSpLast"><font color="#000000"><span style='font-family: "Courier New"; mso-fareast-font-family: "Courier New";'><span style="mso-list: Ignore;"><font size="3">o</font><span style='font: 7pt/normal "Times New Roman"; font-size-adjust: none; font-stretch: normal;'>&nbsp;&nbsp;
+</span></span></span><font size="3"><font face="Calibri">Worked through detailed scenario from handout in
+class<o:p></o:p></font></font></font></p><font color="#000000" size="3" face="Times New Roman">
+
+</font>

@@ -205,7 +205,7 @@
 		
 	echo "<p>";
 					
-	echo "Upload your .pdf notes here: <input name='uploaded' type='file'>";	
+	echo "Upload your .pdf or .jpg notes here: <input name='uploaded' type='file'>";	
 
 	echo "<hr color='#E44D32'>";
 
@@ -251,7 +251,7 @@
 	}	
 	//pre filling year drop down (need a better way to track this)
 	print "</select> &nbsp; <select name='year'>";
-	$year_array = array('Year','2010','2011','2012');
+	$year_array = array('Year','2009','2010','2011');
 	for($y=0;$y<4; $y++)
 	{
 		if( $y == 0)
@@ -327,6 +327,7 @@
 	echo "<input type='hidden' value='true' name='set'></td><td>";
 	echo "<input type='hidden' value='$filename' name='filename'></td></tr></table>";
 	echo "</form>";
+	echo "<div style='clear: both;'>&nbsp;</div>";
 
 	include_once('footer.php');
 	
