@@ -251,7 +251,7 @@
 	}	
 	//pre filling year drop down (need a better way to track this)
 	print "</select> &nbsp; <select name='year'>";
-	$year_array = array('Year','2009','2010','2011');
+	$year_array = array('Year','2010','2011','2012');
 	for($y=0;$y<4; $y++)
 	{
 		if( $y == 0)
